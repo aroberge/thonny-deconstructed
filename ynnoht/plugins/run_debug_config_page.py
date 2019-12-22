@@ -44,7 +44,7 @@ class RunDebugConfigurationPage(ConfigurationPage):
         default_label.grid(row=40, column=0, sticky="w", pady=(15, 0))
         self.add_combobox(
             "debugger.preferred_debugger",
-            ["nicer", "faster", "birdseye"],
+            ["nicer", "faster"],
             width=8,
             row=40,
             column=1,
@@ -55,15 +55,6 @@ class RunDebugConfigurationPage(ConfigurationPage):
             self, text=_("(used when clicking Debug toolbar button)"), anchor="w"
         )
         default_comment_label.grid(row=40, column=2, sticky="w", pady=(15, 0))
-
-        if get_workbench().get_option("run.birdseye_port", None):
-            port_label = ttk.Label(self, text=_("Birdseye port"), anchor="w")
-            port_label.grid(row=50, column=0, sticky="w", pady=(5, 0))
-            self.add_entry("run.birdseye_port", row=50, column=1, width=5, pady=(5, 0), padx=5)
-            port_comment_label = ttk.Label(
-                self, text=_("(restart Thonny after changing this)"), anchor="w"
-            )
-            port_comment_label.grid(row=50, column=2, sticky="w", pady=(5, 0))
 
         self.columnconfigure(2, weight=1)
 

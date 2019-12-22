@@ -2,9 +2,7 @@ Utilisation des débogueurs
 ==========================
 
 Si vous voulez voir comment Python exécute votre programme pas-à-pas alors
-il faut le lancer en *mode de débogage* « joli » ou « vite fait ». On peut
-aussi le faire à l'aide d'`Œil d'oiseau (Birdseye) <birdseye.rst>`_ et
-examiner les étapes d'exécution plus tard.
+il faut le lancer en *mode de débogage* « joli » ou « vite fait ».
 
 Le mode « joli »
 ----------------
@@ -24,7 +22,7 @@ Pour cela, vous avez deux option principales :
 Si on a avancé pas-à-pas dans les profondeurs d'une fonction ou d'une expression et qu'on veut avancer plus vite, on peut alors utiliser *Lancer → Ressortir* qui exécute le code couramment mis en valeur et toutes les parties du programme sur le même niveau.
 Il y a une commande un peu similaire nommée *Reprendre*, qui lancera la commande sans s'arrêter à chaque pas jusqu'à ce qu'elle se termine (ou jusqu'au nouveau point d'arrêt, vois ci-dessous).
 
-Si par accident vous avez fait un trop grand pas et survolé une partie intéressante du code, 
+Si par accident vous avez fait un trop grand pas et survolé une partie intéressante du code,
 on peut **défaire cette étape** en sélectionnant *Lancer → Un pas en arrière*. Thonny montrera l'état du programme tel qu'il était avant le dernier pas. Ensuite on peut continuer avec de petits pas
 et zoomer ce morceau de code. (Comment ça marche ? Même quand on réalise un grand pas, Thonny
 enregistre tous les états intermédiaires du programme, qu'il peut rejouer si on fait un pas en arrière.)
@@ -32,7 +30,7 @@ enregistre tous les états intermédiaires du programme, qu'il peut rejouer si o
 Si on veut atteindre une portion spécifique du code, on peut aller plus vite en plaçant le curseur sur cette ligne et en sélectionnant *Lancer → Exécuter jusqu'au curseur*.
 Cela fait avancer Thonny automatiquement en mode pas-à-pas jusqu'à cette ligne. Vous pouvez reprendre la main à partir de là.
 
-Si vous avez activé les numéros de ligne dans l'éditeur (Outils → Options → Éditeur), alors 
+Si vous avez activé les numéros de ligne dans l'éditeur (Outils → Options → Éditeur), alors
 on peut aussi utiliser des **points d'arrêt**. Quand on double-clique dans la marque gauche de l'éditeur près d'une ligne, un point
 apparaît. Alors, quand on lance le débogueur, il ne s'arrête pas avant la première ligne mais va jusqu'à
 la ligne marquée d'un point, qu'on nomme aussi un point d'arrêt. On peut placer autant de points d'arrêt dans le programme
@@ -59,10 +57,3 @@ concept, mais ça devient encombrant à l'usage. C'est pourquoi, depuis la versi
 deux styles différents pour présenter la pile d'appels. Dans « Outils → Options → Débogueur » on peut passer à
 un style plus traditionnel avec une vue séparée pour présenter les trames d'appels. Notez que les deux
 styles sont utilisables, avec chacun des deux modes de débogage.
-
-
-L'œil d'oiseau (Birdseye)
--------------------------
-
-La commande *Débogage du script courant (Œil d'oiseau)* est expliquée dans une `page séparée <birdseye.rst>`_
- 

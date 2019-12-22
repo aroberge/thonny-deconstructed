@@ -155,21 +155,6 @@ msgstr ""
 msgid "Interpreter"
 msgstr ""
 
-#: ynnoht/plugins/birdseye_frontend.py:30
-msgid "About Birdseye"
-msgstr ""
-
-#: ynnoht/plugins/birdseye_frontend.py:31
-msgid ""
-"Birdseye is a Python debugger which needs to be installed separately.\n"
-"\n"
-"Do you want to open the help page and learn more?"
-msgstr ""
-
-#: ynnoht/plugins/birdseye_frontend.py:55
-msgid "Debug current script (birdseye)"
-msgstr ""
-
 #: ynnoht/plugins/cells.py:182
 msgid "Run cell"
 msgstr ""

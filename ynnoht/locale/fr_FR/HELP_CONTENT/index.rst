@@ -9,7 +9,6 @@ Sujets spécifiques
 * `Mode simple et mode expert <modes.rst>`_
 * `Le Shell <shell.rst>`_
 * `Le Grapheur <plotter.rst>`_
-* `L'Œil d'oiseau (Birdseye) <birdseye.rst>`_
 * `Le développement web avec Flask <flask.rst>`_
 
 Sujets généraux

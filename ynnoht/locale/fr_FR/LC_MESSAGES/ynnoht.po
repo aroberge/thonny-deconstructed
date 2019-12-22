@@ -146,24 +146,6 @@ msgstr "Quel interpréteur ou appareil Thonny doit-il utiliser pour exécuter vo
 msgid "Interpreter"
 msgstr "Interpréteur"
 
-#: ynnoht/plugins/birdseye_frontend.py:32
-msgid "About Birdseye"
-msgstr "À propos de Birdseye"
-
-#: ynnoht/plugins/birdseye_frontend.py:33
-msgid ""
-"Birdseye is a Python debugger which needs to be installed separately.\n"
-"\n"
-"Do you want to open the help page and learn more?"
-msgstr ""
-"Birdseye est un débogueur Python qui doit être installé séparément.\n"
-"\n"
-"Voulez-vous ouvrir l’aide pour en savoir plus ?"
-
-#: ynnoht/plugins/birdseye_frontend.py:60
-msgid "Debug current script (birdseye)"
-msgstr "Déboguer le script courant (birdseye)"
-
 #: ynnoht/plugins/commenting_indenting.py:143
 msgid "Toggle comment"
 msgstr "Commenter/Décommenter"
@@ -1133,10 +1115,6 @@ msgstr "Débogueur favori"
 #: ynnoht/plugins/run_debug_config_page.py:55
 msgid "(used when clicking Debug toolbar button)"
 msgstr "(utilisé lors du clic sur le bouton Déboguer dans la barre d'outils)"
-
-#: ynnoht/plugins/run_debug_config_page.py:60
-msgid "Birdseye port"
-msgstr "Port de Birdseye"
 
 #: ynnoht/plugins/run_debug_config_page.py:64
 msgid "(restart Thonny after changing this)"

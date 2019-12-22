@@ -1240,10 +1240,6 @@ def run_preferred_debug_command():
     preferred_debugger = get_workbench().get_option("debugger.preferred_debugger").lower()
     if preferred_debugger == "faster":
         return _request_debug("FastDebug")
-    elif preferred_debugger == "birdseye":
-        from ynnoht.plugins.birdseye_frontend import debug_with_birdseye
-
-        return debug_with_birdseye()
     else:
         return _request_debug("Debug")
 
