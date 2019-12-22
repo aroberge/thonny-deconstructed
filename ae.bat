@@ -1,0 +1,1 @@
+th-venv\scripts\activate
