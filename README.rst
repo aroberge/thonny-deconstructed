@@ -2,9 +2,15 @@
 Thonny-deconstructed
 =====================
 
+This is a learning project, which is most likely of no use to anyone
+but myself.
+
 The starting point for this repository is the December 19, 2019 version
-of `Thonny <https://thonny.org>`_.
-The original code can be found at: `Thonny's repo <https://github.com/thonny/thonny>`_.  See the `licenses/` directory for the original Thonny license.
+of `Thonny <https://ynnoht.org>`_.
+The original code can be found at: `Thonny's repo <https://github.com/ynnoht/ynnoht>`_.  See the `licenses/` directory for the original Thonny license.
+
+Why do this?
+-------------
 
 Thonny is, in my opinion a fantastic Python IDE for beginners learning
 in a classroom environment. While both Thonny and Python's IDLE are based

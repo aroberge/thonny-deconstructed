@@ -1,0 +1,1467 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Thonny\n"
+"Language: et\n"
+
+#: ynnoht/workbench.py:355
+msgid "File"
+msgstr "Fail"
+
+#: ynnoht/workbench.py:356
+msgid "Edit"
+msgstr "Redigeeri"
+
+#: ynnoht/workbench.py:357
+msgid "View"
+msgstr "Vaated"
+
+#: ynnoht/running.py:95 ynnoht/workbench.py:358
+msgid "Run"
+msgstr "Käivita"
+
+#: ynnoht/workbench.py:360
+msgid "Tools"
+msgstr "Tööriistad"
+
+#: ynnoht/plugins/help/__init__.py:68 ynnoht/workbench.py:361
+msgid "Help"
+msgstr "Abiinfo"
+
+#: ynnoht/workbench.py:522
+msgid "Alternative Python 3 interpreter or virtual environment"
+msgstr "Alternatiivne Python 3 interpretaator või virtuaalkeskkond"
+
+#: ynnoht/workbench.py:530
+msgid "A special virtual environment (deprecated)"
+msgstr "Spetsiaalne virtuaalkeskkond (pole soovitav)"
+
+#: ynnoht/workbench.py:568
+msgid "Exit"
+msgstr "Välju"
+
+#: ynnoht/workbench.py:595
+msgid "Decrease font size"
+msgstr "Vähenda fondi suurust"
+
+#: ynnoht/workbench.py:607
+msgid "Focus editor"
+msgstr "Mine redaktorisse"
+
+#: ynnoht/workbench.py:616
+msgid "Focus shell"
+msgstr "Mine käsureale"
+
+#: ynnoht/workbench.py:627
+msgid "Maximize view"
+msgstr "Suurenda vaade"
+
+#: ynnoht/workbench.py:639
+msgid "Full screen"
+msgstr "Täisekraan"
+
+#: ynnoht/workbench.py:1250
+msgid "Program arguments"
+msgstr "Programmi argumendid"
+
+#: ynnoht/plugins/about.py:25 ynnoht/plugins/about.py:157
+msgid "About Thonny"
+msgstr "Info Thonny kohta"
+
+#: ynnoht/plugins/about.py:77
+msgid "Made in\n"
+"University of Tartu, Estonia,\n"
+"with the help from\n"
+"open-source community,\n"
+"Raspberry Pi Foundation\n"
+"and Cybernetica AS"
+msgstr "Loodud\n"
+"Tartu Ülikoolis, Eestis.\n"
+"Abiks on olnud\n"
+"avatud tarkvara kogukond,\n"
+"Raspberry Pi Foundation\n"
+"ja Cybernetica AS"
+
+#: ynnoht/plugins/about.py:103
+msgid "This program comes with\n"
+"ABSOLUTELY NO WARRANTY!\n"
+"It is free software, and you are welcome to\n"
+"redistribute it under certain conditions, see\n"
+"https://opensource.org/licenses/MIT\n"
+"for details"
+msgstr "Selle programmi toimimise\n"
+"kohta ei anta mingeid garantiisid.\n"
+"See on avatud tarkvara ja seda\n"
+"võib teatud tingimustel levitada.\n"
+"Vaata täpsemalt\n"
+"https://opensource.org/licenses/MIT"
+
+#: ynnoht/plugins/about.py:146
+msgid "Version history"
+msgstr "Versioonide ajalugu"
+
+#: ynnoht/plugins/about.py:153
+msgid "Report problems"
+msgstr "Teata probleemidest"
+
+#: ynnoht/plugins/assistant_config_page.py:15
+msgid "Open Assistant automatically when program crashes with an exception"
+msgstr "Ava Juhendaja automaatselt, kui programm annab vea"
+
+#: ynnoht/plugins/assistant_config_page.py:21
+msgid "Open Assistant automatically when it has warnings for your code"
+msgstr "Ava Juhendaja automaatselt, kui tal on hoiatusi Sinu koodi kohta"
+
+#: ynnoht/plugins/assistant_config_page.py:26
+msgid "Perform selected Pylint checks"
+msgstr "Teosta Pylint kontrolle"
+
+#: ynnoht/plugins/assistant_config_page.py:29
+msgid "Perform MyPy checks"
+msgstr "Teosta MyPy kontrolle"
+
+#: ynnoht/plugins/assistant_config_page.py:31
+msgid "Disabled checks (one id per line)"
+msgstr "Tühistatud kontrollid (üks identifikaator rea kohta)"
+
+#: ynnoht/assistance.py:962 ynnoht/plugins/assistant_config_page.py:68
+msgid "Assistant"
+msgstr "Juhendaja"
+
+#: ynnoht/plugins/autocomplete.py:316
+msgid "Auto-complete"
+msgstr "Lõpeta sõna automaatselt"
+
+#: ynnoht/plugins/backend_config_page.py:43
+msgid "Which interpreter or device should Thonny use for running your code?"
+msgstr "Millise interpretaatoriga peaks Thonny Su koodi jooksutama?"
+
+#: ynnoht/plugins/backend_config_page.py:127
+msgid "Interpreter"
+msgstr "Interpretaator"
+
+#: ynnoht/plugins/birdseye_frontend.py:32
+msgid "About Birdseye"
+msgstr "Birdseye kohta"
+
+#: ynnoht/plugins/birdseye_frontend.py:33
+msgid "Birdseye is a Python debugger which needs to be installed separately.\n"
+"\n"
+"Do you want to open the help page and learn more?"
+msgstr "Birdseye on Pythoni silur, mis tuleb eraldi paigaldada.\n"
+"\n"
+"Kas soovid avada vastava abiinfo lehe, et rohkem teada saada?"
+
+#: ynnoht/plugins/birdseye_frontend.py:60
+msgid "Debug current script (birdseye)"
+msgstr "Silu käesolevat skripti (birdseye)"
+
+#: ynnoht/plugins/commenting_indenting.py:143
+msgid "Toggle comment"
+msgstr "Lülita kommentaar sisse/välja"
+
+#: ynnoht/plugins/commenting_indenting.py:153
+msgid "Comment out"
+msgstr "Kommenteeri"
+
+#: ynnoht/plugins/commenting_indenting.py:163
+msgid "Uncomment"
+msgstr "Eemalda kommentaar"
+
+#: ynnoht/plugins/common_editing_commands.py:20
+msgid "Undo"
+msgstr "Võta muudatus tagasi"
+
+#: ynnoht/plugins/common_editing_commands.py:32
+msgid "Redo"
+msgstr "Rakenda tagasivõetud muudatus uuesti"
+
+#: ynnoht/plugins/common_editing_commands.py:48 ynnoht/ui_utils.py:2176
+msgid "Cut"
+msgstr "Lõika"
+
+#: ynnoht/plugins/common_editing_commands.py:60 ynnoht/ui_utils.py:2177
+msgid "Copy"
+msgstr "Kopeeri"
+
+#: ynnoht/plugins/common_editing_commands.py:72 ynnoht/ui_utils.py:2178
+msgid "Paste"
+msgstr "Kleebi"
+
+#: ynnoht/plugins/common_editing_commands.py:84 ynnoht/plugins/debugger.py:124
+msgid "Select all"
+msgstr "Vali kõik"
+
+#: ynnoht/plugins/debugger.py:117 ynnoht/plugins/debugger.py:1276
+msgid "Run to cursor"
+msgstr "Jooksuta kursorini"
+
+#: ynnoht/plugins/debugger.py:863
+msgid "Can't close yet"
+msgstr "Ei saa veel sulgeda"
+
+#: ynnoht/plugins/debugger.py:864
+msgid "Use \"Stop\" command if you want to cancel debugging"
+msgstr "Kui soovid silumist lõpetada, siis kasuta \"Stop\" käsku"
+
+#: ynnoht/plugins/dock_user_windows_frontend.py:27
+msgid "Dock user windows"
+msgstr "Kinnita kasutaja aknad"
+
+#: ynnoht/plugins/editor_config_page.py:14
+msgid "Highlight matching names"
+msgstr "Too esile samad nimed"
+
+#: ynnoht/plugins/editor_config_page.py:20
+msgid "Highlight local variables"
+msgstr "Too esile lokaalsed muutujad"
+
+#: ynnoht/plugins/editor_config_page.py:25
+msgid "Highlight parentheses"
+msgstr "Too esile sulupaarid"
+
+#: ynnoht/plugins/editor_config_page.py:26
+msgid "Highlight syntax elements"
+msgstr "Tee kood värviliseks"
+
+#: ynnoht/plugins/editor_config_page.py:29
+msgid "Highlight current line (requires reopening the editor)"
+msgstr "Too esile jooksev rida"
+
+#: ynnoht/plugins/editor_config_page.py:34
+msgid "Allow code completion with Tab-key in editors"
+msgstr "Võimalda sõnu lõpetada Tab-klahviga redaktoris"
+
+#: ynnoht/plugins/editor_config_page.py:40
+msgid "Allow code completion with Tab-key in Shell"
+msgstr "Võimalda sõnu lõpetada Tab-klahviga käsureal"
+
+#: ynnoht/plugins/editor_config_page.py:44
+msgid "Show line numbers"
+msgstr "Näita reanumbreid"
+
+#: ynnoht/plugins/editor_config_page.py:47
+msgid "Recommended maximum line length\n"
+"(Set to 0 to turn off margin line)"
+msgstr "Soovitatav maksimaalne reapikkus\n"
+"(0 lülitab serva näitamise välja)"
+
+#: ynnoht/plugins/editor_config_page.py:68
+msgid "Editor"
+msgstr "Redaktor"
+
+#: ynnoht/plugins/event_logging.py:197
+msgid "Export usage logs..."
+msgstr "Ekspordi kasutuslogi"
+
+#: ynnoht/plugins/event_view.py:38
+msgid "Events"
+msgstr "Sündmused"
+
+#: ynnoht/plugins/files.py:307
+msgid "Files"
+msgstr "Failid"
+
+#: ynnoht/plugins/find_replace.py:56 ynnoht/plugins/find_replace.py:412
+msgid "Find & Replace"
+msgstr "Otsi ja asenda"
+
+#: ynnoht/plugins/find_replace.py:62
+msgid "Find:"
+msgstr "Otsi:"
+
+#: ynnoht/plugins/find_replace.py:73
+msgid "Replace with:"
+msgstr "Asenda:"
+
+#: ynnoht/plugins/find_replace.py:91
+msgid "Case sensitive"
+msgstr "Tõstutundlik"
+
+#: ynnoht/plugins/find_replace.py:98
+msgid "Up"
+msgstr "Üles"
+
+#: ynnoht/plugins/find_replace.py:102
+msgid "Down"
+msgstr "Alla"
+
+#: ynnoht/plugins/find_replace.py:111
+msgid "Find"
+msgstr "Otsi"
+
+#: ynnoht/plugins/find_replace.py:121
+msgid "Replace"
+msgstr "Asenda"
+
+#: ynnoht/plugins/find_replace.py:129
+msgid "Replace+Find"
+msgstr "Otsi ja asenda"
+
+#: ynnoht/plugins/find_replace.py:138
+msgid "Replace all"
+msgstr "Asenda kõik"
+
+#: ynnoht/plugins/find_replace.py:232
+msgid "Enter string to be replaced."
+msgstr "Sisesta asendatav sõne"
+
+#: ynnoht/plugins/find_replace.py:316
+msgid "The specified text was not found!"
+msgstr "Otsitavat teksti ei leitud!"
+
+#: ynnoht/plugins/general_config_page.py:13
+msgid "Allow only single Thonny instance"
+msgstr "Luba korraga ainult üks Thonny"
+
+#: ynnoht/plugins/general_config_page.py:20
+msgid "Reopen all files from previous session"
+msgstr "Ava käivitumisel kõik eelmise sessiooni failid"
+
+#: ynnoht/plugins/general_config_page.py:26
+msgid "Disable notification sound"
+msgstr "Keela teavitushelid"
+
+#: ynnoht/plugins/general_config_page.py:75
+msgid "Font scaling mode"
+msgstr "Fondi suuruse režiim"
+
+#: ynnoht/plugins/heap.py:35
+msgid "Heap mode is on.\n"
+"Close Heap view to turn it off."
+msgstr "Kuhja režiim on sees.\n"
+"Väljalülitamiseks sulge Kuhja vaade"
+
+#: ynnoht/plugins/heap.py:83
+msgid "Heap"
+msgstr "Kuhi"
+
+#: ynnoht/plugins/general_config_page.py:42
+msgid "Language"
+msgstr "Keel"
+
+#: ynnoht/plugins/notes.py:33
+msgid "This box is meant for your working notes -- assignment instructions, code snippets, whatever.\n"
+"\n"
+"Everything will be saved automatically and loaded when you open Thonny next time.\n"
+"\n"
+"Feel free to delete this text to make room for your own notes."
+msgstr "See kast on mõeldud Sinu märkmeteks -- tööjuhenditeks, koodijuppideks, ...\n"
+"\n"
+"Tekst salvestub automaatselt ja laetakse uuesti kui Sa avad Thonny uuesti.\n"
+"\n"
+"Võid vabalt selle teksti kustutada, et enda märkmetele ruumi teha."
+
+#: ynnoht/plugins/notes.py:61
+msgid "Notes"
+msgstr "Märkmed"
+
+#: ynnoht/plugins/object_inspector.py:108
+msgid "Previous object"
+msgstr "Eelmine objekt"
+
+#: ynnoht/plugins/object_inspector.py:111
+msgid "Next object"
+msgstr "Järgmine objekt"
+
+#: ynnoht/plugins/object_inspector.py:601
+msgid "Object inspector"
+msgstr "Objektivaatur"
+
+#: ynnoht/plugins/outline.py:137
+msgid "Outline"
+msgstr "Struktuur"
+
+#: ynnoht/plugins/pgzero_frontend.py:26
+msgid "Pygame Zero mode"
+msgstr "Pygame Zero režiim"
+
+#: ynnoht/plugins/pip_gui.py:78
+msgid "Find package from PyPI"
+msgstr "Otsi pakki PyPI-st"
+
+#: ynnoht/plugins/pip_gui.py:188 ynnoht/plugins/pip_gui.py:190
+msgid "Uninstall"
+msgstr "Desinstalli"
+
+#: ynnoht/code.py:548 ynnoht/plugins/microbit/__init__.py:200
+#: ynnoht/plugins/pip_gui.py:204 ynnoht/running.py:1457 ynnoht/ui_utils.py:367
+#: ynnoht/ui_utils.py:1643
+msgid "Close"
+msgstr "Sulge"
+
+#: ynnoht/plugins/pip_gui.py:382
+msgid "Click "
+msgstr "Klõpsa "
+
+#: ynnoht/plugins/pip_gui.py:383 ynnoht/plugins/pip_gui.py:393
+msgid "here"
+msgstr "siia"
+
+#: ynnoht/plugins/pip_gui.py:181 ynnoht/plugins/pip_gui.py:478
+msgid "Upgrade"
+msgstr "Uuenda"
+
+#: ynnoht/plugins/microbit/__init__.py:123 ynnoht/plugins/pip_gui.py:483
+#: ynnoht/plugins/pip_gui.py:1064
+msgid "Install"
+msgstr "Installi"
+
+#: ynnoht/plugins/pip_gui.py:505
+msgid "Could not find the package from PyPI."
+msgstr "Ei leidnud PyPI-st sellist pakki"
+
+#: ynnoht/plugins/pip_gui.py:515
+msgid "exact package name"
+msgstr "täpne paki nimi"
+
+#: ynnoht/plugins/pip_gui.py:533
+msgid "Latest stable version"
+msgstr "Viimane stabiilne versioon"
+
+#: ynnoht/plugins/pip_gui.py:535
+msgid "Latest version"
+msgstr "Viimane versioon"
+
+#: ynnoht/plugins/pip_gui.py:536
+msgid "Summary"
+msgstr "Kokkuvõte"
+
+#: ynnoht/plugins/pip_gui.py:537
+msgid "Author"
+msgstr "Autor"
+
+#: ynnoht/plugins/pip_gui.py:538
+msgid "Homepage"
+msgstr "Koduleht"
+
+#: ynnoht/plugins/pip_gui.py:540
+msgid "Bugtracker"
+msgstr "Vigade register"
+
+#: ynnoht/plugins/pip_gui.py:542
+msgid "Documentation"
+msgstr "Dokumentatsioon"
+
+#: ynnoht/plugins/pip_gui.py:544
+msgid "PyPI page"
+msgstr "PyPI leht"
+
+#: ynnoht/plugins/pip_gui.py:548
+msgid "Requires"
+msgstr "Nõuab"
+
+#: ynnoht/plugins/pip_gui.py:614
+msgid "Really uninstall?"
+msgstr "Desinstallida?"
+
+#: ynnoht/plugins/pip_gui.py:619
+msgid "Are you sure you want to uninstall it?"
+msgstr "Kas oled kindel, et soovid seda desinstallida?"
+
+#: ynnoht/plugins/variables.py:19
+msgid "Back to\n"
+"current frame"
+msgstr "Tagasi\n"
+"aktiivsesse raami"
+
+#: ynnoht/plugins/variables.py:131
+msgid "Variables"
+msgstr "Muutujad"
+
+#: ynnoht/base_file_browser.py:30
+msgid "This computer"
+msgstr "See arvuti"
+
+#: ynnoht/base_file_browser.py:568
+msgid "Refresh"
+msgstr "Värskenda"
+
+#: ynnoht/base_file_browser.py:572
+msgid "Focus into"
+msgstr "Mine sisse"
+
+#: ynnoht/base_file_browser.py:1001
+msgid "Error"
+msgstr "Viga"
+
+#: ynnoht/base_file_browser.py:1001
+msgid "You need to select a file!"
+msgstr "Sa peand valima faili!"
+
+#: ynnoht/base_file_browser.py:1005
+msgid "Overwrite?"
+msgstr "Kirjutada üle?"
+
+#: ynnoht/base_file_browser.py:1005
+msgid "Do you want to overwrite '%s' ?"
+msgstr "Kas soovid '%s' üle kirjutada?"
+
+#: ynnoht/code.py:513 ynnoht/code.py:515
+msgid "New"
+msgstr "Uus"
+
+#: ynnoht/code.py:526
+msgid "Open..."
+msgstr "Ava..."
+
+#: ynnoht/code.py:528
+msgid "Load"
+msgstr "Lae"
+
+#: ynnoht/code.py:537
+msgid "Recent files"
+msgstr "Hiljutised failid"
+
+#: ynnoht/code.py:559 ynnoht/ui_utils.py:369
+msgid "Close all"
+msgstr "Sulge kõik"
+
+#: ynnoht/code.py:569 ynnoht/code.py:571
+msgid "Save"
+msgstr "Salvesta"
+
+#: ynnoht/code.py:583
+msgid "Save as..."
+msgstr "Salvesta nimega..."
+
+#: ynnoht/code.py:594
+msgid "Save copy..."
+msgstr "Salvesta koopia..."
+
+#: ynnoht/code.py:603
+msgid "Rename..."
+msgstr "Nimeta ümber..."
+
+#: ynnoht/config_ui.py:17
+msgid "Thonny options"
+msgstr "Thonny seaded"
+
+#: ynnoht/running.py:94
+msgid "Run current script"
+msgstr "Jooksuta käesolev skript"
+
+#: ynnoht/running.py:125
+msgid "Run current script in terminal"
+msgstr "Jooksuta käesolev skript terminalis"
+
+#: ynnoht/running.py:138
+msgid "Stop/Restart backend"
+msgstr "Peata/taaskäivita interpretaator"
+
+#: ynnoht/running.py:139
+msgid "Stop"
+msgstr "Peata"
+
+#: ynnoht/running.py:150
+msgid "Interrupt execution"
+msgstr "Katkesta programm"
+
+#: ynnoht/running.py:161
+msgid "Send EOF / Soft reboot"
+msgstr "Saada EOF / Soft reboot"
+
+#: ynnoht/running.py:172
+msgid "Disconnect"
+msgstr "Ühenda lahti"
+
+#: ynnoht/running_config_page.py:23
+msgid "Known interpreters"
+msgstr "Teadaolevad interpretaatorid"
+
+#: ynnoht/running_config_page.py:36
+msgid "Your interpreter isn't in the list?"
+msgstr "Ei leida vajalikku interpretaatorit?"
+
+#: ynnoht/running_config_page.py:43
+msgid "Locate another"
+msgstr "Vali mõni muu"
+
+#: ynnoht/running_config_page.py:45
+msgid "python executable"
+msgstr "Pythoni käivitusprogramm"
+
+#: ynnoht/running_config_page.py:47
+msgid "NB! Thonny only supports Python 3.5 and later"
+msgstr "NB! Thonny toetab ainult Python 3.5 ja hilisemaid"
+
+#: ynnoht/running_config_page.py:56
+msgid "Create new virtual environment"
+msgstr "Loo uus virtuaalkeskkond"
+
+#: ynnoht/running_config_page.py:59
+msgid "Select existing or create a new empty directory"
+msgstr "Vali olemasolev või loo uus tühi kaust"
+
+#: ynnoht/running_config_page.py:74
+msgid "Python interpreters"
+msgstr "Pythoni interpretaatord"
+
+#: ynnoht/plugins/pip_gui.py:657 ynnoht/plugins/pip_gui.py:669
+#: ynnoht/running_config_page.py:75
+msgid "all files"
+msgstr "kõik failid"
+
+#: ynnoht/running_config_page.py:89
+msgid "Select empty directory for new virtual environment"
+msgstr "Vali uue virtuaalkeskkonna jaoks tühi kaust"
+
+#: ynnoht/running_config_page.py:96
+msgid "Bad directory"
+msgstr "Halb kaust"
+
+#: ynnoht/running_config_page.py:97
+msgid "Selected directory is not empty.\n"
+"Select another or cancel."
+msgstr "Valitud kaust pole tühi.\n"
+"Vali mõni muu või tühista."
+
+#: ynnoht/running_config_page.py:112
+msgid "Creating virtual environment"
+msgstr "Loon virtuaalkeskkonda"
+
+#: ynnoht/shell.py:72
+msgid "Clear shell"
+msgstr "Puhasta käsurida"
+
+#: ynnoht/shell.py:126
+msgid "Plotter"
+msgstr "Plotter"
+
+#: ynnoht/shell.py:245
+msgid "Clear"
+msgstr "Puhasta"
+
+#: ynnoht/shell.py:258
+msgid "Show Plotter"
+msgstr "Ava Plotter"
+
+#: ynnoht/shell.py:1389
+msgid "For performance reasons, Shell avoids showing very long lines in full (see Tools => Options => Shell).\n"
+"Here you can interact with the original text fragment."
+msgstr "Parema jõudluse nimel ei näidata Käsureal väga pikki ridu\n"
+"(vaata Tööriistad => Seaded => Käsurida).\n"
+"Siin saad Sa algset tekstifragmenti täielikult näha."
+
+#: ynnoht/shell.py:1400
+msgid "Wrap text (may be slow)"
+msgstr "Murra rida (võib olla aeglane)"
+
+#: ynnoht/shell.py:1425 ynnoht/ui_utils.py:1639
+msgid "Copy to clipboard"
+msgstr "Kopeeri lõikepuhvrisse"
+
+#: ynnoht/shell.py:1431
+msgid "Expand in Shell"
+msgstr "Kirjuta Käsureale välja"
+
+#: ynnoht/shell.py:1442
+msgid "Squeezed text (%d characters)"
+msgstr "Kokkupressitud tekst (%d sümbolit)"
+
+#: ynnoht/shell.py:1611
+msgid "Plotter visualizes series of\n"
+"numbers printed to the Shell."
+msgstr "Plotter visualiseerib käsureale\n"
+"prinditud numbrijadasid."
+
+#: ynnoht/shell.py:1613
+msgid "See Help for details."
+msgstr "Täpsemalt vaata abiinfost."
+
+#: ynnoht/ui_utils.py:368
+msgid "Close others"
+msgstr "Sulge ülejäänud"
+
+#: ynnoht/ui_utils.py:1499
+msgid "Copying"
+msgstr "Kopeerin"
+
+#: ynnoht/ui_utils.py:1502
+msgid "Copying\n"
+"  %s\n"
+"to\n"
+"  %s"
+msgstr "Kopeerin\n"
+"  %s\n"
+"=> \n"
+"  %s"
+
+#: ynnoht/config_ui.py:31 ynnoht/plugins/microbit/__init__.py:127
+#: ynnoht/plugins/pip_gui.py:1066 ynnoht/running.py:1424
+#: ynnoht/ui_utils.py:1510 ynnoht/ui_utils.py:1712
+msgid "Cancel"
+msgstr "Tühista"
+
+#: ynnoht/config_ui.py:30 ynnoht/ui_utils.py:1764
+msgid "OK"
+msgstr "Sobib"
+
+#: ynnoht/ui_utils.py:1783
+msgid "Cancel the process?"
+msgstr "Tühista protsess?"
+
+#: ynnoht/ui_utils.py:1784
+msgid "The process is still running.\n"
+"Are you sure you want to cancel?"
+msgstr "Protsess käib veel.\n"
+"Oled Sa kindel, et soovid katkestada?"
+
+#: ynnoht/ui_utils.py:2182
+msgid "Select All"
+msgstr "Vali kõik"
+
+#: ynnoht/plugins/shell_config_page.py:61 ynnoht/workbench.py:162
+msgid "Shell"
+msgstr "Käsurida"
+
+#: ynnoht/workbench.py:512
+msgid "The same interpreter which runs Thonny (default)"
+msgstr "Sama interpretaator, mis jooksutab Thonnyt (vaikimisi)"
+
+#: ynnoht/workbench.py:531
+msgid "This virtual environment is automatically maintained by Thonny.\n"
+""
+msgstr "Seda virtuaalkeskkonda haldab Thonny automaatselt."
+
+#: ynnoht/workbench.py:532
+msgid "Location: "
+msgstr "Asukoht: "
+
+#: ynnoht/workbench.py:578
+msgid "Options..."
+msgstr "Seaded..."
+
+#: ynnoht/workbench.py:585
+msgid "Increase font size"
+msgstr "Suurenda kirja suurust"
+
+#: ynnoht/workbench.py:650
+msgid "Change font size"
+msgstr "Muuda kirja suurust"
+
+#: ynnoht/workbench.py:651
+msgid "Zoom"
+msgstr "Suurus"
+
+#: ynnoht/workbench.py:660
+msgid "Exit Thonny"
+msgstr "Välju Thonnyst"
+
+#: ynnoht/workbench.py:663
+msgid "Quit"
+msgstr "Välju"
+
+#: ynnoht/workbench.py:1054 ynnoht/workbench.py:1062
+msgid "Overwriting theme '%s'"
+msgstr "Kirjutan üle teemat nimega '%s'"
+
+#: ynnoht/workbench.py:1221
+msgid "Program arguments:"
+msgstr "Programmi argumendid:"
+
+#: ynnoht/workbench.py:1275
+msgid "Regular mode"
+msgstr "Tavarežiim"
+
+#: ynnoht/workbench.py:1276
+msgid "Configuration has been updated. Restart Thonny to start working in regular mode.\n"
+"\n"
+"(See 'Tools → Options → General' if you change your mind later.)"
+msgstr "Seaded on muudetud. Tavarežiimis alustamiseks taaskäivita Thonny.\n"
+"\n"
+"(Vaata 'Tööriistad → Seaded → Üldine', kui Sa mõtled hiljem ümber.)"
+
+#: ynnoht/plugins/ast_view.py:209
+msgid "Program tree"
+msgstr "Programmipuu"
+
+#: ynnoht/plugins/backend_config_page.py:130
+msgid "Select interpreter"
+msgstr "Vali interpretaator"
+
+#: ynnoht/plugins/debugger.py:1162
+msgid "Resume"
+msgstr "Naase"
+
+#: ynnoht/plugins/debugger.py:1174
+msgid "Run / resume"
+msgstr "Jooksuta / naase"
+
+#: ynnoht/plugins/debugger.py:1189
+msgid "Debug current script"
+msgstr "Silu käesolevat skripti"
+
+#: ynnoht/plugins/debugger.py:1191
+msgid "Debug"
+msgstr "Silu"
+
+#: ynnoht/plugins/debugger.py:1202
+msgid "Debug current script (nicer)"
+msgstr "Silu käesolevat skripti (ägedam)"
+
+#: ynnoht/plugins/debugger.py:1214
+msgid "Debug current script (faster)"
+msgstr "Silu käesolevat skripti (kiirem)"
+
+#: ynnoht/plugins/debugger.py:1225
+msgid "Step over"
+msgstr "Astu üle"
+
+#: ynnoht/plugins/debugger.py:1227
+msgid "Over"
+msgstr "Üle"
+
+#: ynnoht/plugins/debugger.py:1238
+msgid "Step into"
+msgstr "Asti sisse"
+
+#: ynnoht/plugins/debugger.py:1240
+msgid "Into"
+msgstr "Sisse"
+
+#: ynnoht/plugins/debugger.py:1251
+msgid "Step out"
+msgstr "Astu välja"
+
+#: ynnoht/plugins/debugger.py:1253
+msgid "Out"
+msgstr "Välja"
+
+#: ynnoht/plugins/debugger.py:1288
+msgid "Step back"
+msgstr "Astu tagasi"
+
+#: ynnoht/plugins/debugger.py:1290
+msgid "Back"
+msgstr "Tagasi"
+
+#: ynnoht/plugins/debugger.py:1296
+msgid "Stack"
+msgstr "Pinu"
+
+#: ynnoht/plugins/debugger.py:1297
+msgid "Exception"
+msgstr "Erind"
+
+#: ynnoht/plugins/general_config_page.py:16
+msgid "Log program usage events"
+msgstr "Logi kasutussündmusi"
+
+#: ynnoht/plugins/general_config_page.py:32
+msgid "Debug mode (provides more detailed diagnostic logs)"
+msgstr "Arendusrežiim (annab detailsemat diagnostilised logid)"
+
+#: ynnoht/plugins/general_config_page.py:56
+msgid "UI mode"
+msgstr "Kasutajaliidese režiim"
+
+#: ynnoht/plugins/general_config_page.py:69
+msgid "UI scaling factor"
+msgstr "Kasutajaliidese suurendamine"
+
+#: ynnoht/plugins/general_config_page.py:88
+msgid "NB! Restart Thonny after changing these options!"
+msgstr "NB! Need seaded rakenduvad peale Thonny taaskäivitamist"
+
+#: ynnoht/plugins/general_config_page.py:102
+msgid "General"
+msgstr "Üldine"
+
+#: ynnoht/plugins/pip_gui.py:108
+msgid "INSTALL"
+msgstr "INSTALLI"
+
+#: ynnoht/plugins/pip_gui.py:352
+msgid "Browse the packages"
+msgstr "Vaata pakke"
+
+#: ynnoht/plugins/pip_gui.py:355
+msgid "With current interpreter you can only browse the packages here.\n"
+"Use 'Tools → Open system shell...' for installing, upgrading or uninstalling."
+msgstr "Käesoleva interpretaatoriga saad Sa siin pakke ainult vaadata.\n"
+"Installimiseks, kustutamiseks ja uuendamiseks on vaja kasutada\n"
+"muid vahendeid"
+
+#: ynnoht/plugins/pip_gui.py:363
+msgid "Packages' directory"
+msgstr "Pakkide kaust"
+
+#: ynnoht/plugins/pip_gui.py:368
+msgid "Install from PyPI"
+msgstr "Installi PyPI-st"
+
+#: ynnoht/plugins/pip_gui.py:371
+msgid "If you don't know where to get the package from, then most likely you'll want to search the Python Package Index. Start by entering the name of the package in the search box above and pressing ENTER."
+msgstr "Kui Sa ei tea, kust pakki saada, siis on mõistlik otsida\n"
+"seda Pythoni pakiregistrist (PyPI), Alustuseks sisest\n"
+"paki nimi otsingukasti ja vajuta ENTER."
+
+#: ynnoht/plugins/pip_gui.py:387
+msgid "to locate requirements.txt file and install the packages specified in it."
+msgstr "et valida requirements.txt fail ja installida seal näidatud pakid."
+
+#: ynnoht/plugins/pip_gui.py:392
+msgid "Click"
+msgstr "Klõpsa"
+
+#: ynnoht/plugins/pip_gui.py:397
+msgid "to locate and install the package file (usually with .whl, .tar.gz or .zip extension)."
+msgstr "et valida ja installida pakifail (harilikult .whl, .tar.gz või .zip laiendiga)"
+
+#: ynnoht/plugins/pip_gui.py:403
+msgid "Upgrade or uninstall"
+msgstr "Uuenda või desinstalli"
+
+#: ynnoht/plugins/pip_gui.py:405
+msgid "Start by selecting the package from the left."
+msgstr "Alustuseks vali vasakult huvipakkuv pakk"
+
+#: ynnoht/plugins/pip_gui.py:409
+msgid "Target:"
+msgstr "Sihtkoht:"
+
+#: ynnoht/plugins/pip_gui.py:412
+msgid "virtual environment"
+msgstr "virtuaalkeskkond"
+
+#: ynnoht/plugins/pip_gui.py:416
+msgid "user site packages"
+msgstr "kasutaja \"site-packages\""
+
+#: ynnoht/plugins/pip_gui.py:421
+msgid "This dialog lists all available packages, but allows upgrading and uninstalling only packages from"
+msgstr "Selles dialoogis näidatakse kõiki pakke, aga uuendada ja desinstallida\n"
+"lubatakse ainult pakke asukohast"
+
+#: ynnoht/plugins/pip_gui.py:431
+msgid "New packages will be also installed into this directory. Other locations must be managed by alternative means."
+msgstr "Uued pakid installitakse ka sellesse kausta. Teisi asukohti\n"
+"tuleb hallata teiste vahenditega"
+
+#: ynnoht/plugins/pip_gui.py:456
+msgid "Installed version:"
+msgstr "Installitud versioon:"
+
+#: ynnoht/plugins/pip_gui.py:458
+msgid "Installed to:"
+msgstr "Installimise asukoht:"
+
+#: ynnoht/plugins/pip_gui.py:510
+msgid "Please check your spelling!"
+msgstr "Kontrolli kas kirjutasid paki nime õigesti!"
+
+#: ynnoht/plugins/pip_gui.py:512
+msgid "You need to enter"
+msgstr "On vaja sisestada"
+
+#: ynnoht/plugins/pip_gui.py:520
+msgid "Could not find the package info from PyPI."
+msgstr "Ei leidnud sellist pakki PyPI-st"
+
+#: ynnoht/plugins/pip_gui.py:522 ynnoht/plugins/pip_gui.py:1120
+msgid "Error code:"
+msgstr "Veakood:"
+
+#: ynnoht/plugins/pip_gui.py:581
+msgid "Can't find package name from the list:"
+msgstr "Ei leia paki nime nimekirjast:"
+
+#: ynnoht/plugins/pip_gui.py:615
+msgid "Package '{}' is required for installing and uninstalling other packages."
+msgstr "Pakk '{}' on vajalik teiste pakkide installimiseks ja uuendamisks"
+
+#: ynnoht/plugins/pip_gui.py:657
+msgid "Package"
+msgstr "Pakk"
+
+#: ynnoht/plugins/pip_gui.py:757
+msgid "Manage packages for %s"
+msgstr "Halda %s pakke"
+
+#: ynnoht/plugins/pip_gui.py:813
+msgid "Confirmation"
+msgstr "Kinnitus"
+
+#: ynnoht/plugins/pip_gui.py:814
+msgid "Looks like you are installing a Thonny-related package.\n"
+"If you meant to install a Thonny plugin, then you should\n"
+"choose 'Tools → Manage plugins...' instead\n"
+"\n"
+"Are you sure you want to install %s for the back-end?"
+msgstr "Paistab, et soovid installida Thonny pistikprogrammi.\n"
+"Õige oleks seda teha 'Tööriistad → Halda pistikprogramme' alt.\n"
+"\n"
+"Oled sa kindel, et tahad installida %s siin?"
+
+#: ynnoht/plugins/pip_gui.py:912
+msgid "NB! There may be another version available which is compatible with current Thonny version. Click on '...' button to choose the version to install."
+msgstr "NB! Mõni muu versioon võib selle Thonny versiooniga klappida. \n"
+"Klõpsa '...' nupule versiooni valimiseks."
+
+#: ynnoht/plugins/pip_gui.py:920
+msgid "Thonny plugin without requirements"
+msgstr "Thonny pistikprogramm ilma sõltuvusteta"
+
+#: ynnoht/plugins/pip_gui.py:921
+msgid "Looks like you are trying to install an outdated Thonny\n"
+"plug-in (it doesn't specify required Thonny version).\n"
+"\n"
+"If you still want it, then please install it from the command line."
+msgstr "Paistab, et proovid installida aegunud Thonny pistikprogrammi\n"
+"(sellel pole märgitud vajalikku Thonny versiooni).\n"
+"\n"
+"Kui sa tõesti tahad seda, siis installi see süsteemi käsurealt."
+
+#: ynnoht/plugins/pip_gui.py:935
+msgid "Unsuitable requirements"
+msgstr "Ebasobivad sõltuvused"
+
+#: ynnoht/plugins/pip_gui.py:936
+msgid "This package requires different Thonny version:"
+msgstr "See pakk vajab teistsugust Thonny versiooni:"
+
+#: ynnoht/plugins/pip_gui.py:940
+msgid "If you still want it, then please install it from the command line."
+msgstr "Kui sa ikkagi tahad seda, siis installi see süsteemi käsurealt.."
+
+#: ynnoht/plugins/pip_gui.py:984
+msgid "(In this case Thonny's back-end uses same interpreter, so both dialogs manage same packages.)"
+msgstr "(Antud juhul kasutab Thonny programmide jooksutamiseks sama interpretaatorit,\n"
+"seega tegelevad mõlemad dialoogid samade pakkidega.)"
+
+#: ynnoht/plugins/pip_gui.py:990
+msgid "NB! You need to restart Thonny after installing / upgrading / uninstalling a plug-in."
+msgstr "NB! Äsja installitud pistikprogramm rakendub alles peale Thonny taaskäivitamist."
+
+#: ynnoht/plugins/pip_gui.py:1000
+msgid "Thonny plug-ins"
+msgstr "Thonny pistikprogrammid"
+
+#: ynnoht/plugins/pip_gui.py:1013
+msgid "Advanced install / upgrade / downgrade"
+msgstr "Täpsem install / versiooni valik"
+
+#: ynnoht/plugins/pip_gui.py:1022
+msgid "Desired version"
+msgstr "Soovitud versioon"
+
+#: ynnoht/plugins/pip_gui.py:1060
+msgid "Upgrade dependencies"
+msgstr "Uuenda sõltuvused"
+
+#: ynnoht/plugins/pip_gui.py:1118
+msgid "Requires:"
+msgstr "Nõuab:"
+
+#: ynnoht/plugins/pip_gui.py:1122
+msgid "Error:"
+msgstr "Viga:"
+
+#: ynnoht/plugins/pip_gui.py:1232
+msgid "Manage packages..."
+msgstr "Halda lisapakke..."
+
+#: ynnoht/plugins/pip_gui.py:1238
+msgid "Manage plug-ins..."
+msgstr "Halda pistikprogramme..."
+
+#: ynnoht/plugins/replayer.py:354
+msgid "Open replayer..."
+msgstr "Ava Taasesitaja..."
+
+#: ynnoht/plugins/run_debug_config_page.py:12
+msgid "Change working directory to script directory on Run / Debug"
+msgstr "Muuda jooksutamisel / silumisel automaatselt jooksvat kausta"
+
+#: ynnoht/plugins/run_debug_config_page.py:20
+msgid "Show function calls (frames) in separate windows"
+msgstr "Näita funktsiooni väljakutseid (raame) eraldi akendes"
+
+#: ynnoht/plugins/run_debug_config_page.py:21
+msgid "Uncheck if you want more traditional experience."
+msgstr "Ära vali, kui soovid tavapärast (vähem intuitiivset) esitusviisi."
+
+#: ynnoht/plugins/run_debug_config_page.py:27
+msgid "Open and close Stack view automatically"
+msgstr "Ava ja sulge Pinu vaade automaatselt"
+
+#: ynnoht/plugins/run_debug_config_page.py:28
+msgid "Opens the Stack view on first call and closes it when program returns to main frame."
+msgstr "Avab Pinu vaate esimesel funktsiooni väljakutsel ja sulgeb, kui programm jõuab tagasi pearaami"
+
+#: ynnoht/plugins/run_debug_config_page.py:37
+msgid "Allow stepping into libraries (ie. outside of main script directory)"
+msgstr "Luba teegifunktsioonide sisse astumine (väljaspool skripti kausta)"
+
+#: ynnoht/plugins/run_debug_config_page.py:38
+msgid "May make debugging slower."
+msgstr "Võib teha silumise aeglasemaks."
+
+#: ynnoht/plugins/run_debug_config_page.py:43
+msgid "Preferred debugger"
+msgstr "Eelistatud silur"
+
+#: ynnoht/plugins/run_debug_config_page.py:55
+msgid "(used when clicking Debug toolbar button)"
+msgstr "(rakendatakse \"Silur\" tööriistariba nupu klõpsamisel)"
+
+#: ynnoht/plugins/run_debug_config_page.py:60
+msgid "Birdseye port"
+msgstr "Birdseye port"
+
+#: ynnoht/plugins/run_debug_config_page.py:64
+msgid "(restart Thonny after changing this)"
+msgstr "(taaskäivita Thonny peale selle muutmist)"
+
+#: ynnoht/plugins/run_debug_config_page.py:72
+msgid "Run & Debug"
+msgstr "Käivitamine"
+
+#: ynnoht/plugins/shell_config_page.py:16
+msgid "Terminal emulation"
+msgstr "Terminali emuleerimine"
+
+#: ynnoht/plugins/shell_config_page.py:18
+msgid "supports basic ANSI-colors and styles"
+msgstr "toetab põhilisi ANSI värvikoode ja stiile"
+
+#: ynnoht/plugins/shell_config_page.py:30
+msgid "Maximum number of lines to keep."
+msgstr "Maksimaalne ridade arv."
+
+#: ynnoht/plugins/shell_config_page.py:32
+msgid "NB! Large values may cause poor performance!"
+msgstr "NB! Suurte väärtustega võib jõudlus halveneda!"
+
+#: ynnoht/plugins/shell_config_page.py:47
+msgid "Maximum length of line fragments before squeezing"
+msgstr "Maksimaalne realõigu pikkus enne \"kokkupigistamist\""
+
+#: ynnoht/plugins/terminal_config_page.py:10
+msgid "Running current script in terminal"
+msgstr "Skripti käivitamine terminalis"
+
+#: ynnoht/plugins/terminal_config_page.py:15
+msgid "Present Python REPL after program ends"
+msgstr "Näita peale programmi lõppu Pythoni käsurida"
+
+#: ynnoht/plugins/terminal_config_page.py:22
+msgid "Keep terminal window open after Python process ends"
+msgstr "Hoia terminali aken avatuna ka peale Pythoni protsessi lõppemist"
+
+#: ynnoht/plugins/terminal_config_page.py:29
+msgid "NB! Automatic closing needs to be enabled in Terminal's settings\n"
+"(Profiles → Shell → When the shell exits)"
+msgstr "NB! Automaatset sulgemist tuleb lubada Terminali seadetes\n"
+"(Profiles → Shell → When the shell exits)"
+
+#: ynnoht/plugins/terminal_config_page.py:38
+msgid "Terminal"
+msgstr "Terminal"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:39
+msgid "UI theme"
+msgstr "Kasutajaliidese stiil"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:52
+msgid "Syntax theme"
+msgstr "Süntaksi stiil"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:84
+msgid "Editor font"
+msgstr "Redaktori font"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:107
+msgid "IO font"
+msgstr "Sisend/väljund font"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:132
+msgid "Preview"
+msgstr "Eelvaade"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:144
+msgid "This is a comment"
+msgstr "See on kommentaar"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:147
+msgid "The answer is"
+msgstr "Vastus on"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:151
+msgid "unclosed_string"
+msgstr "sulgemata_string"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:153
+msgid "blah, blah"
+msgstr "blaa, blaa"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:176
+msgid "NB! Some style elements change only after restarting Thonny!"
+msgstr "NB! Mõned stiilielemendid muutuvad alles peale Thonny taaskäivitamist!"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:215
+msgid "Enter an integer"
+msgstr "Sisesta täisarv"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:228
+msgid "Theme & Font"
+msgstr "Stiil & font"
+
+#: ynnoht/plugins/ynnoht_folders.py:18
+msgid "Open Thonny program folder..."
+msgstr "Ava Thonny programmikaust..."
+
+#: ynnoht/plugins/ynnoht_folders.py:23
+msgid "Open Thonny data folder..."
+msgstr "Ava Thonny andmekaust..."
+
+#: ynnoht/plugins/help/__init__.py:58
+msgid "Home"
+msgstr "Avaleht"
+
+#: ynnoht/plugins/help/__init__.py:69
+msgid "Help contents"
+msgstr "Abiinfo sisukord"
+
+#: ynnoht/plugins/micropython/__init__.py:175
+msgid "CircuitPython device"
+msgstr "CircuitPythoni seade"
+
+#: ynnoht/plugins/micropython/__init__.py:179
+msgid "MicroPython device"
+msgstr "MicroPythoni seade"
+
+#: ynnoht/plugins/micropython/__init__.py:191
+msgid "Connect your device to the computer and select corresponding port below"
+msgstr "Ühenda seade arvutiga ja vali allpoolt selle port"
+
+#: ynnoht/plugins/micropython/__init__.py:194
+msgid "look for your device name, \"USB Serial\" or \"UART\""
+msgstr "otsi oma seadme nime või fraase \"USB Serial\" või \"UART\""
+
+#: ynnoht/plugins/micropython/__init__.py:196
+msgid "If you can't find it, you may need to install proper USB driver first."
+msgstr "Kui sa ei leia seda, siis pead võibolla installima sobiva USB draiveri."
+
+#: ynnoht/plugins/micropython/__init__.py:220
+msgid "Port"
+msgstr "Port"
+
+#: ynnoht/plugins/micropython/__init__.py:229
+msgid "Try to detect port automatically"
+msgstr "Proovi tuvastada port automaatselt"
+
+#: ynnoht/plugins/micropython/__init__.py:417
+msgid "MicroPython (generic)"
+msgstr "MicroPython (üldine)"
+
+#: ynnoht/plugins/printing/__init__.py:79
+msgid "Print..."
+msgstr "Prindi..."
+
+#: ynnoht/plugins/system_shell/__init__.py:59
+msgid "Open system shell..."
+msgstr "Ava süsteemi käsurida / terminal"
+
+#: ynnoht/plugins/backend_config_page.py:61
+msgid "Details"
+msgstr "Detailid"
+
+#: ynnoht/plugins/pip_gui.py:380
+msgid "Install from requirements file"
+msgstr "Installi sõltuvusfaili järgi"
+
+#: ynnoht/plugins/pip_gui.py:391
+msgid "Install from local file"
+msgstr "Installi lokaalsest failist"
+
+#: ynnoht/plugins/pip_gui.py:970
+msgid "This dialog is for managing Thonny plug-ins and their dependencies.\n"
+"If you want to install packages for your own programs then choose 'Tools → Manage packages...'"
+msgstr "See dialoog on mõeldud Thonny pistiprogrammide haldamiseks.\n"
+"Kui soovid installida pakke enda programmide jaoks, siis kasuta 'Tööriistad → Halda lisapakke...'"
+
+#: ynnoht/plugins/circuitpython/__init__.py:47
+msgid "CircuitPython (generic)"
+msgstr "CircuitPython (üldine)"
+
+#: ynnoht/plugins/commenting_indenting.py:123
+msgid "Indent selected lines"
+msgstr "Suurenda ridade taanet"
+
+#: ynnoht/plugins/commenting_indenting.py:133
+msgid "Dedent selected lines"
+msgstr "Vähenda ridade taanet"
+
+#: ynnoht/workbench.py:1264
+msgid "Switch to\n"
+"regular\n"
+"mode"
+msgstr "Mine\n"
+"tavalisse\n"
+"režiimi"
+
+#: ynnoht/plugins/microbit/__init__.py:54
+msgid "Make sure MicroPython has been installed to your micro:bit."
+msgstr "Veendu, et MicroPython oleks su micro:bit-ile installitud."
+
+#: ynnoht/plugins/microbit/__init__.py:56
+msgid "Don't forget that main.py only works without embedded main script."
+msgstr "Ära unusta, et main.py toimib ainult siis kui MicroPython on ilma peaskriptita."
+
+#: ynnoht/plugins/microbit/__init__.py:102
+msgid "Install latest MicroPython to BBC micro:bit"
+msgstr "Installi värskeim MicroPython BBC micro:bit-ile"
+
+#: ynnoht/plugins/microbit/__init__.py:104
+msgid "micro:bit location:"
+msgstr "micro:bit-i asukoht:"
+
+#: ynnoht/plugins/microbit/__init__.py:109
+msgid "Version to be installed:"
+msgstr "Installitav versioon:"
+
+#: ynnoht/plugins/microbit/__init__.py:111
+msgid "please wait"
+msgstr "palun oota"
+
+#: ynnoht/plugins/microbit/__init__.py:115
+msgid "NB! All files on micro:bit will be deleted!"
+msgstr "NB! kõik failid micro:bit-il kustutatakse"
+
+#: ynnoht/plugins/microbit/__init__.py:195
+msgid "Installing ..."
+msgstr "Installin ..."
+
+#: ynnoht/plugins/microbit/__init__.py:199
+msgid "Done!"
+msgstr "Valmis!"
+
+#: ynnoht/plugins/microbit/__init__.py:199
+msgid "You can now close this dialog."
+msgstr "Võid nüüd selle akna sulgeda."
+
+#: ynnoht/plugins/micropython/__init__.py:298
+msgid "Firmware"
+msgstr "Püsivara"
+
+#: ynnoht/plugins/micropython/__init__.py:301
+msgid "Open the dialog for installing or upgrading MicroPython on your device"
+msgstr "Ava MicroPythoni installimise või uuendamise dialoog"
+
+#: ynnoht/plugins/microbit/__init__.py:67
+msgid "Could not find disk '%s'."
+msgstr "Ei leia draivi '%s'."
+
+#: ynnoht/plugins/microbit/__init__.py:69
+msgid "Make sure you have micro:bit plugged in!"
+msgstr "Veendu, et micro:bit on ühendatud!"
+
+#: ynnoht/plugins/microbit/__init__.py:71
+msgid "Do you want to continue and locate the disk yourself?"
+msgstr "Kas soovid jätkata ja draivi ise valida?"
+
+#: ynnoht/misc_utils.py:120
+msgid "Could not find disk '%s'. Do you want to locate it yourself?"
+msgstr "Ei leia draivi nimega '%s'. Kas soovid selle ise valida?"
+
+#: ynnoht/misc_utils.py:123
+msgid "Found several '%s' disks. Do you want to choose one yourself?"
+msgstr "Leidsin mitu draivi nimega '%s'. Kas soovid ühe neist ise valida?"
+
+#: ynnoht/misc_utils.py:137
+msgid "Can't find suitable disk"
+msgstr "Ei leia sobivat draivi."
+
+#: ynnoht/base_file_browser.py:259
+msgid "%d items"
+msgstr "%d üksust"
+
+#: ynnoht/base_file_browser.py:581
+msgid "Move to Recycle Bin"
+msgstr "Liiguta Prügikasti"
+
+#: ynnoht/base_file_browser.py:583
+msgid "Move to Trash"
+msgstr "Liiguta Prügikasti"
+
+#: ynnoht/base_file_browser.py:586
+msgid "Delete"
+msgstr "Kustuta"
+
+#: ynnoht/base_file_browser.py:589
+msgid "New directory"
+msgstr "Uus kaust"
+
+#: ynnoht/base_file_browser.py:592
+msgid "Properties"
+msgstr "Omadused"
+
+#: ynnoht/base_file_browser.py:593
+msgid "Storage space"
+msgstr "Salvestusruum"
+
+#: ynnoht/base_file_browser.py:603
+msgid "Path"
+msgstr "Tee"
+
+#: ynnoht/base_file_browser.py:605
+msgid "Directory properties"
+msgstr "Kausta omadused"
+
+#: ynnoht/base_file_browser.py:607
+msgid "File properties"
+msgstr "Faili omadused"
+
+#: ynnoht/base_file_browser.py:609
+msgid "bytes"
+msgstr "baiti"
+
+#: ynnoht/base_file_browser.py:612
+msgid "Size"
+msgstr "Suurus"
+
+#: ynnoht/base_file_browser.py:623
+msgid "Modified"
+msgstr "Muudetud"
+
+#: ynnoht/base_file_browser.py:679
+msgid "Deleting %s"
+msgstr "Kustutan %s"
+
+#: ynnoht/base_file_browser.py:701
+msgid "Moving %s to %s"
+msgstr "Liigutan %s asukohta %s"
+
+#: ynnoht/code.py:203
+msgid "Loading"
+msgstr "Laadin"
+
+#: ynnoht/code.py:297
+msgid "Saving"
+msgstr "Salvestan"
+
+#: ynnoht/running.py:1408
+msgid "Working..."
+msgstr "Töötan..."
+
+#: ynnoht/plugins/files.py:199
+msgid "Uploading %s to %s"
+msgstr "Laadin %s üles asukohta %s"
+
+#: ynnoht/plugins/files.py:206
+msgid "Upload to %s"
+msgstr "Laadi üles asukohta %s"
+
+#: ynnoht/plugins/files.py:261
+msgid "Downloading %s to %s"
+msgstr "Laadi %s alla asukohta %s"
+
+#: ynnoht/plugins/files.py:267
+msgid "Download to %s"
+msgstr "Laadi alla asukohta %s"
+

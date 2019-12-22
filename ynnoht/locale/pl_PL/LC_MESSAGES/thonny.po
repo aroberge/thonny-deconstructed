@@ -1,0 +1,1462 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Thonny\n"
+"Language: pl\n"
+
+#: ynnoht/workbench.py:355
+msgid "File"
+msgstr "Plik"
+
+#: ynnoht/workbench.py:356
+msgid "Edit"
+msgstr "Edytuj"
+
+#: ynnoht/workbench.py:357
+msgid "View"
+msgstr "Podgląd"
+
+#: ynnoht/running.py:95 ynnoht/workbench.py:358
+msgid "Run"
+msgstr "Uruchom"
+
+#: ynnoht/workbench.py:360
+msgid "Tools"
+msgstr "Narzędzia"
+
+#: ynnoht/plugins/help/__init__.py:68 ynnoht/workbench.py:361
+msgid "Help"
+msgstr "Pomoc"
+
+#: ynnoht/workbench.py:522
+msgid "Alternative Python 3 interpreter or virtual environment"
+msgstr "Alternatywny interpreter Python 3 lub środowisko wirtualne"
+
+#: ynnoht/workbench.py:530
+msgid "A special virtual environment (deprecated)"
+msgstr "Dedykowane środowisko wirtualne (nie zalecane)"
+
+#: ynnoht/workbench.py:568
+msgid "Exit"
+msgstr "Wyjśćie"
+
+#: ynnoht/workbench.py:595
+msgid "Decrease font size"
+msgstr "Zmniejsz rozmiar czcionki"
+
+#: ynnoht/workbench.py:607
+msgid "Focus editor"
+msgstr "Przenieś fokus na edytor"
+
+#: ynnoht/workbench.py:616
+msgid "Focus shell"
+msgstr "Przenieś fokus na powłokę"
+
+#: ynnoht/workbench.py:627
+msgid "Maximize view"
+msgstr "Zmaksymalizuj"
+
+#: ynnoht/workbench.py:639
+msgid "Full screen"
+msgstr "Pełny ekran"
+
+#: ynnoht/workbench.py:1250
+msgid "Program arguments"
+msgstr "Argumenty programu"
+
+#: ynnoht/plugins/about.py:25 ynnoht/plugins/about.py:157
+msgid "About Thonny"
+msgstr "O programie Thonny"
+
+#: ynnoht/plugins/about.py:77
+msgid "Made in\n"
+"University of Tartu, Estonia,\n"
+"with the help from\n"
+"open-source community,\n"
+"Raspberry Pi Foundation\n"
+"and Cybernetica AS"
+msgstr "Stworzone na\n"
+"University of Tartu, Estonia,\n"
+"z pomocą\n"
+"społeczności open source,\n"
+"Fundacja Raspberry Pi\n"
+"oraz Cybernetica AS"
+
+#: ynnoht/plugins/about.py:103
+msgid "This program comes with\n"
+"ABSOLUTELY NO WARRANTY!\n"
+"It is free software, and you are welcome to\n"
+"redistribute it under certain conditions, see\n"
+"https://opensource.org/licenses/MIT\n"
+"for details"
+msgstr "Ten program wydawany jest\n"
+"ABSOLUTNIE BEZ ŻADNEJ GWARANCJI!\n"
+"To jest wolne oprogramowanie i mile widziane jest\n"
+"dalsze rozpowszechnianie go na podobnych warunkach, patrz\n"
+"https://opensource.org/licenses/MIT\n"
+"po szczegóły"
+
+#: ynnoht/plugins/about.py:146
+msgid "Version history"
+msgstr "Historia wersji"
+
+#: ynnoht/plugins/about.py:153
+msgid "Report problems"
+msgstr "Zgłoś problemy"
+
+#: ynnoht/plugins/assistant_config_page.py:15
+msgid "Open Assistant automatically when program crashes with an exception"
+msgstr "Otwórz asystenta automatycznie, gdy program ulegnie awarii z wyjątkiem"
+
+#: ynnoht/plugins/assistant_config_page.py:21
+msgid "Open Assistant automatically when it has warnings for your code"
+msgstr "Otwórz asystenta automatycznie, gdy pojawi się ostrzeżenie dla Twojego kodu"
+
+#: ynnoht/plugins/assistant_config_page.py:26
+msgid "Perform selected Pylint checks"
+msgstr "Wykonaj wybrane testy Pylint"
+
+#: ynnoht/plugins/assistant_config_page.py:29
+msgid "Perform MyPy checks"
+msgstr "Wykonaj testy MyPy"
+
+#: ynnoht/plugins/assistant_config_page.py:31
+msgid "Disabled checks (one id per line)"
+msgstr ""
+
+#: ynnoht/assistance.py:962 ynnoht/plugins/assistant_config_page.py:68
+msgid "Assistant"
+msgstr "Asystent"
+
+#: ynnoht/plugins/autocomplete.py:316
+msgid "Auto-complete"
+msgstr "Auto-uzupełnianie"
+
+#: ynnoht/plugins/backend_config_page.py:43
+msgid "Which interpreter or device should Thonny use for running your code?"
+msgstr "Z jakiego interpretera lub urządzenia Thonny powinien korzystać do uruchamiania kodu?"
+
+#: ynnoht/plugins/backend_config_page.py:127
+msgid "Interpreter"
+msgstr "Interpreter"
+
+#: ynnoht/plugins/birdseye_frontend.py:32
+msgid "About Birdseye"
+msgstr "O Birdseye"
+
+#: ynnoht/plugins/birdseye_frontend.py:33
+msgid "Birdseye is a Python debugger which needs to be installed separately.\n"
+"\n"
+"Do you want to open the help page and learn more?"
+msgstr "Birdseye to debugger języka Python, który należy zainstalować oddzielnie.\n"
+"\n"
+"Czy chcesz otworzyć stronę pomocy i dowiedzieć się więcej?"
+
+#: ynnoht/plugins/birdseye_frontend.py:60
+msgid "Debug current script (birdseye)"
+msgstr "Debuguj bieżący skrypt (birdseye)"
+
+#: ynnoht/plugins/commenting_indenting.py:143
+msgid "Toggle comment"
+msgstr "Przełącz komentarz"
+
+#: ynnoht/plugins/commenting_indenting.py:153
+msgid "Comment out"
+msgstr "Zakomentuj"
+
+#: ynnoht/plugins/commenting_indenting.py:163
+msgid "Uncomment"
+msgstr "Odkomentuj"
+
+#: ynnoht/plugins/common_editing_commands.py:20
+msgid "Undo"
+msgstr "Cofnij"
+
+#: ynnoht/plugins/common_editing_commands.py:32
+msgid "Redo"
+msgstr "Ponów"
+
+#: ynnoht/plugins/common_editing_commands.py:48 ynnoht/ui_utils.py:2176
+msgid "Cut"
+msgstr "Wytnij"
+
+#: ynnoht/plugins/common_editing_commands.py:60 ynnoht/ui_utils.py:2177
+msgid "Copy"
+msgstr "Kopiuj"
+
+#: ynnoht/plugins/common_editing_commands.py:72 ynnoht/ui_utils.py:2178
+msgid "Paste"
+msgstr "Wklej"
+
+#: ynnoht/plugins/common_editing_commands.py:84 ynnoht/plugins/debugger.py:124
+msgid "Select all"
+msgstr "Wybierz wszystko"
+
+#: ynnoht/plugins/debugger.py:117 ynnoht/plugins/debugger.py:1276
+msgid "Run to cursor"
+msgstr "Uruchom do kursora"
+
+#: ynnoht/plugins/debugger.py:863
+msgid "Can't close yet"
+msgstr "Nie można jeszcze zamknąć"
+
+#: ynnoht/plugins/debugger.py:864
+msgid "Use \"Stop\" command if you want to cancel debugging"
+msgstr "Użyj polecenia „Stop”, jeśli chcesz anulować debugowanie"
+
+#: ynnoht/plugins/dock_user_windows_frontend.py:27
+msgid "Dock user windows"
+msgstr "Zadokuj okna użytkownik"
+
+#: ynnoht/plugins/editor_config_page.py:14
+msgid "Highlight matching names"
+msgstr "Podświetl pasujące nazwy"
+
+#: ynnoht/plugins/editor_config_page.py:20
+msgid "Highlight local variables"
+msgstr "Podświetl zmienne lokalne"
+
+#: ynnoht/plugins/editor_config_page.py:25
+msgid "Highlight parentheses"
+msgstr "Podświetl nawiasy"
+
+#: ynnoht/plugins/editor_config_page.py:26
+msgid "Highlight syntax elements"
+msgstr "Podświetl elementy składni"
+
+#: ynnoht/plugins/editor_config_page.py:29
+msgid "Highlight current line (requires reopening the editor)"
+msgstr "Podświetl bieżącą linię (wymaga ponownego uruchomienia edytora)"
+
+#: ynnoht/plugins/editor_config_page.py:34
+msgid "Allow code completion with Tab-key in editors"
+msgstr "Zezwól na uzupełnianie kodu klawiszem Tab w edytorach"
+
+#: ynnoht/plugins/editor_config_page.py:40
+msgid "Allow code completion with Tab-key in Shell"
+msgstr "Allow code completion with Tab-key in powłoce"
+
+#: ynnoht/plugins/editor_config_page.py:44
+msgid "Show line numbers"
+msgstr "Pokaż numery lini"
+
+#: ynnoht/plugins/editor_config_page.py:47
+msgid "Recommended maximum line length\n"
+"(Set to 0 to turn off margin line)"
+msgstr "Zalecana maksymalna długość linii\n"
+"(Ustaw na 0, aby wyłączyć linię marginesu)"
+
+#: ynnoht/plugins/editor_config_page.py:68
+msgid "Editor"
+msgstr "Edytor"
+
+#: ynnoht/plugins/event_logging.py:197
+msgid "Export usage logs..."
+msgstr "Eksportuj dzienniki..."
+
+#: ynnoht/plugins/event_view.py:38
+msgid "Events"
+msgstr "Zdarzenia"
+
+#: ynnoht/plugins/files.py:307
+msgid "Files"
+msgstr "Pliki"
+
+#: ynnoht/plugins/find_replace.py:56 ynnoht/plugins/find_replace.py:412
+msgid "Find & Replace"
+msgstr "Znajdź i zastąp"
+
+#: ynnoht/plugins/find_replace.py:62
+msgid "Find:"
+msgstr "Znajdź:"
+
+#: ynnoht/plugins/find_replace.py:73
+msgid "Replace with:"
+msgstr "Zastąp przez:"
+
+#: ynnoht/plugins/find_replace.py:91
+msgid "Case sensitive"
+msgstr "Uwzględniaj wielkość liter"
+
+#: ynnoht/plugins/find_replace.py:98
+msgid "Up"
+msgstr "W górę"
+
+#: ynnoht/plugins/find_replace.py:102
+msgid "Down"
+msgstr "Do dołu"
+
+#: ynnoht/plugins/find_replace.py:111
+msgid "Find"
+msgstr "Znajdź"
+
+#: ynnoht/plugins/find_replace.py:121
+msgid "Replace"
+msgstr "Zastąp"
+
+#: ynnoht/plugins/find_replace.py:129
+msgid "Replace+Find"
+msgstr "Zastąp+Znajdź"
+
+#: ynnoht/plugins/find_replace.py:138
+msgid "Replace all"
+msgstr "Zastąś wszystkie"
+
+#: ynnoht/plugins/find_replace.py:232
+msgid "Enter string to be replaced."
+msgstr "Wpisz napis, który chcesz zastąpić."
+
+#: ynnoht/plugins/find_replace.py:316
+msgid "The specified text was not found!"
+msgstr "Podany tekst nie został znaleziony!"
+
+#: ynnoht/plugins/general_config_page.py:13
+msgid "Allow only single Thonny instance"
+msgstr "Zezwalaj tylko na jedną instancję Thonny"
+
+#: ynnoht/plugins/general_config_page.py:20
+msgid "Reopen all files from previous session"
+msgstr "Otwórz ponownie wszystkie pliki z poprzedniej sesji"
+
+#: ynnoht/plugins/general_config_page.py:26
+msgid "Disable notification sound"
+msgstr "Wyłącz powiadomienia dźwiękowe"
+
+#: ynnoht/plugins/general_config_page.py:75
+msgid "Font scaling mode"
+msgstr "Tryb skalowania czcionek"
+
+#: ynnoht/plugins/heap.py:35
+msgid "Heap mode is on.\n"
+"Close Heap view to turn it off."
+msgstr "Tryb sterty jest włączony.\n"
+"Zamknij widok sterty, aby go wyłączyć."
+
+#: ynnoht/plugins/heap.py:83
+msgid "Heap"
+msgstr "Sterta"
+
+#: ynnoht/plugins/general_config_page.py:42
+msgid "Language"
+msgstr "Język"
+
+#: ynnoht/plugins/notes.py:33
+msgid "This box is meant for your working notes -- assignment instructions, code snippets, whatever.\n"
+"\n"
+"Everything will be saved automatically and loaded when you open Thonny next time.\n"
+"\n"
+"Feel free to delete this text to make room for your own notes."
+msgstr "To pole jest przeznaczone do notatek roboczych - instrukcj do zadań, fragmentów kodu i innych.\n"
+"\n"
+"Wszystko zostanie zapisane automatycznie i załadowane, gdy następnym razem otworzysz Thonny.\n"
+"\n"
+"Usuń ten tekst, aby zrobić miejsce na własne notatki."
+
+#: ynnoht/plugins/notes.py:61
+msgid "Notes"
+msgstr "Notatki"
+
+#: ynnoht/plugins/object_inspector.py:108
+msgid "Previous object"
+msgstr "Poprzedni obiekt"
+
+#: ynnoht/plugins/object_inspector.py:111
+msgid "Next object"
+msgstr "Następny obiekt"
+
+#: ynnoht/plugins/object_inspector.py:601
+msgid "Object inspector"
+msgstr "Inspektor obiektów"
+
+#: ynnoht/plugins/outline.py:137
+msgid "Outline"
+msgstr "Zarys"
+
+#: ynnoht/plugins/pgzero_frontend.py:26
+msgid "Pygame Zero mode"
+msgstr "Tryb Pygame Zero"
+
+#: ynnoht/plugins/pip_gui.py:78
+msgid "Find package from PyPI"
+msgstr "Znajdź pakiet z PyPi"
+
+#: ynnoht/plugins/pip_gui.py:188 ynnoht/plugins/pip_gui.py:190
+msgid "Uninstall"
+msgstr "Odinstaluj"
+
+#: ynnoht/code.py:548 ynnoht/plugins/microbit/__init__.py:200
+#: ynnoht/plugins/pip_gui.py:204 ynnoht/running.py:1457 ynnoht/ui_utils.py:367
+#: ynnoht/ui_utils.py:1643
+msgid "Close"
+msgstr "Zamknij"
+
+#: ynnoht/plugins/pip_gui.py:382
+msgid "Click "
+msgstr "Klik "
+
+#: ynnoht/plugins/pip_gui.py:383 ynnoht/plugins/pip_gui.py:393
+msgid "here"
+msgstr "tutaj"
+
+#: ynnoht/plugins/pip_gui.py:181 ynnoht/plugins/pip_gui.py:478
+msgid "Upgrade"
+msgstr "Uaktualnij"
+
+#: ynnoht/plugins/microbit/__init__.py:123 ynnoht/plugins/pip_gui.py:483
+#: ynnoht/plugins/pip_gui.py:1064
+msgid "Install"
+msgstr "Zainstaluj"
+
+#: ynnoht/plugins/pip_gui.py:505
+msgid "Could not find the package from PyPI."
+msgstr "Nie można znaleźć pakietu z PyPI."
+
+#: ynnoht/plugins/pip_gui.py:515
+msgid "exact package name"
+msgstr "dokładna nazwa pakietu"
+
+#: ynnoht/plugins/pip_gui.py:533
+msgid "Latest stable version"
+msgstr "Najnowsza stabilna wersja"
+
+#: ynnoht/plugins/pip_gui.py:535
+msgid "Latest version"
+msgstr "Najnowasz wersja"
+
+#: ynnoht/plugins/pip_gui.py:536
+msgid "Summary"
+msgstr "Podsumowanie"
+
+#: ynnoht/plugins/pip_gui.py:537
+msgid "Author"
+msgstr "Autor"
+
+#: ynnoht/plugins/pip_gui.py:538
+msgid "Homepage"
+msgstr "Strona domowa"
+
+#: ynnoht/plugins/pip_gui.py:540
+msgid "Bugtracker"
+msgstr "System śledzenia błędów"
+
+#: ynnoht/plugins/pip_gui.py:542
+msgid "Documentation"
+msgstr "Dokumentacja"
+
+#: ynnoht/plugins/pip_gui.py:544
+msgid "PyPI page"
+msgstr "Pakiet PyPi"
+
+#: ynnoht/plugins/pip_gui.py:548
+msgid "Requires"
+msgstr "Wymagania"
+
+#: ynnoht/plugins/pip_gui.py:614
+msgid "Really uninstall?"
+msgstr "Naprawdę odinstalować"
+
+#: ynnoht/plugins/pip_gui.py:619
+msgid "Are you sure you want to uninstall it?"
+msgstr "Czy na pewano odinstalować? "
+
+#: ynnoht/plugins/variables.py:19
+msgid "Back to\n"
+"current frame"
+msgstr "Wróć do\n"
+"aktualnej ramki"
+
+#: ynnoht/plugins/variables.py:131
+msgid "Variables"
+msgstr "Zmienna"
+
+#: ynnoht/base_file_browser.py:30
+msgid "This computer"
+msgstr "Ten komputer"
+
+#: ynnoht/base_file_browser.py:568
+msgid "Refresh"
+msgstr "Odśwież"
+
+#: ynnoht/base_file_browser.py:572
+msgid "Focus into"
+msgstr "Ustwa fokus na"
+
+#: ynnoht/base_file_browser.py:1001
+msgid "Error"
+msgstr "Błąd"
+
+#: ynnoht/base_file_browser.py:1001
+msgid "You need to select a file!"
+msgstr "Musisz wybrać plik!"
+
+#: ynnoht/base_file_browser.py:1005
+msgid "Overwrite?"
+msgstr "Nadpisac?"
+
+#: ynnoht/base_file_browser.py:1005
+msgid "Do you want to overwrite '%s' ?"
+msgstr "Czy chcesz nadpisać '%s' ?"
+
+#: ynnoht/code.py:513 ynnoht/code.py:515
+msgid "New"
+msgstr "Nowy"
+
+#: ynnoht/code.py:526
+msgid "Open..."
+msgstr "Otwórz"
+
+#: ynnoht/code.py:528
+msgid "Load"
+msgstr "Załaduj"
+
+#: ynnoht/code.py:537
+msgid "Recent files"
+msgstr "Ostatnie pliki"
+
+#: ynnoht/code.py:559 ynnoht/ui_utils.py:369
+msgid "Close all"
+msgstr "Zamknij wszystkie"
+
+#: ynnoht/code.py:569 ynnoht/code.py:571
+msgid "Save"
+msgstr "Zapisz"
+
+#: ynnoht/code.py:583
+msgid "Save as..."
+msgstr "Zapisz jako..."
+
+#: ynnoht/code.py:594
+msgid "Save copy..."
+msgstr "Zapisz kopię..."
+
+#: ynnoht/code.py:603
+msgid "Rename..."
+msgstr "Zmień nazwę..."
+
+#: ynnoht/config_ui.py:17
+msgid "Thonny options"
+msgstr "Opcje Thonny "
+
+#: ynnoht/running.py:94
+msgid "Run current script"
+msgstr "Uruchom aktualny skrypt"
+
+#: ynnoht/running.py:125
+msgid "Run current script in terminal"
+msgstr "Uruchom aktualny skrypt w terminalu"
+
+#: ynnoht/running.py:138
+msgid "Stop/Restart backend"
+msgstr "Zatrzymaj/Uruchom ponownie backend"
+
+#: ynnoht/running.py:139
+msgid "Stop"
+msgstr "Zatrzymaj"
+
+#: ynnoht/running.py:150
+msgid "Interrupt execution"
+msgstr "Przerwij wykonanie"
+
+#: ynnoht/running.py:161
+msgid "Send EOF / Soft reboot"
+msgstr "Wyślij EOF / Miękki restart"
+
+#: ynnoht/running.py:172
+msgid "Disconnect"
+msgstr "Odłącz"
+
+#: ynnoht/running_config_page.py:23
+msgid "Known interpreters"
+msgstr "Znane interpretery"
+
+#: ynnoht/running_config_page.py:36
+msgid "Your interpreter isn't in the list?"
+msgstr "Twojego interpretera nie ma na liście?"
+
+#: ynnoht/running_config_page.py:43
+msgid "Locate another"
+msgstr "Zlokalizuj kolejny"
+
+#: ynnoht/running_config_page.py:45
+msgid "python executable"
+msgstr "plik binarny pythona"
+
+#: ynnoht/running_config_page.py:47
+msgid "NB! Thonny only supports Python 3.5 and later"
+msgstr "Uwaga! Thonny obsługuje tylko Python 3.5 lub nowszy"
+
+#: ynnoht/running_config_page.py:56
+msgid "Create new virtual environment"
+msgstr "Stwórz środowisko wirtualne"
+
+#: ynnoht/running_config_page.py:59
+msgid "Select existing or create a new empty directory"
+msgstr "Wybierz istniejący lub utwórz nowy pusty katalog"
+
+#: ynnoht/running_config_page.py:74
+msgid "Python interpreters"
+msgstr "Interpretery Python"
+
+#: ynnoht/plugins/pip_gui.py:657 ynnoht/plugins/pip_gui.py:669
+#: ynnoht/running_config_page.py:75
+msgid "all files"
+msgstr "wszystkie pliki"
+
+#: ynnoht/running_config_page.py:89
+msgid "Select empty directory for new virtual environment"
+msgstr "Wybierz pusty katalog dla nowego środowiska wirtualnego"
+
+#: ynnoht/running_config_page.py:96
+msgid "Bad directory"
+msgstr "Błędny katalog"
+
+#: ynnoht/running_config_page.py:97
+msgid "Selected directory is not empty.\n"
+"Select another or cancel."
+msgstr "Wybrany katalog nie jest pusty.\n"
+"Wybierz inny lub anuluj."
+
+#: ynnoht/running_config_page.py:112
+msgid "Creating virtual environment"
+msgstr "Tworzenie środowiska wirtualnego"
+
+#: ynnoht/shell.py:72
+msgid "Clear shell"
+msgstr "Wyczyść powłokę"
+
+#: ynnoht/shell.py:126
+msgid "Plotter"
+msgstr "Plotter"
+
+#: ynnoht/shell.py:245
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: ynnoht/shell.py:258
+msgid "Show Plotter"
+msgstr "Pokaż Plotter "
+
+#: ynnoht/shell.py:1389
+msgid "For performance reasons, Shell avoids showing very long lines in full (see Tools => Options => Shell).\n"
+"Here you can interact with the original text fragment."
+msgstr "Ze względu na wydajność, powłoka unika wyświetlania bardzo długich linii w całości (patrz Narzędzia → Opcje → Powłoka).\n"
+"Tutaj możesz wchodzić w interakcję z oryginalnym fragmentem tekstu."
+
+#: ynnoht/shell.py:1400
+msgid "Wrap text (may be slow)"
+msgstr "Zawijaj tekst (może być wolny)"
+
+#: ynnoht/shell.py:1425 ynnoht/ui_utils.py:1639
+msgid "Copy to clipboard"
+msgstr "Skopiuj do schowka"
+
+#: ynnoht/shell.py:1431
+msgid "Expand in Shell"
+msgstr "Rozwiń w powłoce"
+
+#: ynnoht/shell.py:1442
+msgid "Squeezed text (%d characters)"
+msgstr "Ściśnięty tekst (%d znaków)"
+
+#: ynnoht/shell.py:1611
+msgid "Plotter visualizes series of\n"
+"numbers printed to the Shell."
+msgstr "Ploter wizualizuje serię\n"
+"liczb wydrukowane w powłoce."
+
+#: ynnoht/shell.py:1613
+msgid "See Help for details."
+msgstr "Sprawdź informacje w pomocy."
+
+#: ynnoht/ui_utils.py:368
+msgid "Close others"
+msgstr "Zamknij pozostałe"
+
+#: ynnoht/ui_utils.py:1499
+msgid "Copying"
+msgstr "Kopiowanie"
+
+#: ynnoht/ui_utils.py:1502
+msgid "Copying\n"
+"  %s\n"
+"to\n"
+"  %s"
+msgstr "Kopying\n"
+"  %s\n"
+"do\n"
+"  %s"
+
+#: ynnoht/config_ui.py:31 ynnoht/plugins/microbit/__init__.py:127
+#: ynnoht/plugins/pip_gui.py:1066 ynnoht/running.py:1424
+#: ynnoht/ui_utils.py:1510 ynnoht/ui_utils.py:1712
+msgid "Cancel"
+msgstr "Zatrzymaj"
+
+#: ynnoht/config_ui.py:30 ynnoht/ui_utils.py:1764
+msgid "OK"
+msgstr "OK"
+
+#: ynnoht/ui_utils.py:1783
+msgid "Cancel the process?"
+msgstr "Zatrzymać proces?"
+
+#: ynnoht/ui_utils.py:1784
+msgid "The process is still running.\n"
+"Are you sure you want to cancel?"
+msgstr "Proces jest nadal uruchomiony.\n"
+"Czy na pewno chcesz zatrzymać?"
+
+#: ynnoht/ui_utils.py:2182
+msgid "Select All"
+msgstr "Wybierz wszystkie"
+
+#: ynnoht/plugins/shell_config_page.py:61 ynnoht/workbench.py:162
+msgid "Shell"
+msgstr "Powłoka"
+
+#: ynnoht/workbench.py:512
+msgid "The same interpreter which runs Thonny (default)"
+msgstr "Ten sam interpreter, który uruchamia Thonny (domyślnie)"
+
+#: ynnoht/workbench.py:531
+msgid "This virtual environment is automatically maintained by Thonny.\n"
+""
+msgstr "To wirtualne środowisko jest automatycznie zarządzane przez Thonny.\n"
+""
+
+#: ynnoht/workbench.py:532
+msgid "Location: "
+msgstr "Lokalizacja: "
+
+#: ynnoht/workbench.py:578
+msgid "Options..."
+msgstr "Opcje..."
+
+#: ynnoht/workbench.py:585
+msgid "Increase font size"
+msgstr "Zwiększ rozmiar czcionki"
+
+#: ynnoht/workbench.py:650
+msgid "Change font size"
+msgstr "Zmień rozmiar czcionki"
+
+#: ynnoht/workbench.py:651
+msgid "Zoom"
+msgstr "Zoom"
+
+#: ynnoht/workbench.py:660
+msgid "Exit Thonny"
+msgstr "Zamknij Thonny"
+
+#: ynnoht/workbench.py:663
+msgid "Quit"
+msgstr "Zakończ"
+
+#: ynnoht/workbench.py:1054 ynnoht/workbench.py:1062
+msgid "Overwriting theme '%s'"
+msgstr "Nadpisuję temat '%s'"
+
+#: ynnoht/workbench.py:1221
+msgid "Program arguments:"
+msgstr "Argumenty programu:"
+
+#: ynnoht/workbench.py:1275
+msgid "Regular mode"
+msgstr "Tryb zwykły"
+
+#: ynnoht/workbench.py:1276
+msgid "Configuration has been updated. Restart Thonny to start working in regular mode.\n"
+"\n"
+"(See 'Tools → Options → General' if you change your mind later.)"
+msgstr "Konfiguracja została zaktualizowana. Uruchom ponownie Thonny, aby rozpocząć pracę w trybie zwykłym.\n"
+"\n"
+"(Zobacz 'Narzędzia → Opcje → Ogólne', jeśli później zmienisz zdanie)."
+
+#: ynnoht/plugins/ast_view.py:209
+msgid "Program tree"
+msgstr "Drzewo programu"
+
+#: ynnoht/plugins/backend_config_page.py:130
+msgid "Select interpreter"
+msgstr "Wybierz interpreter"
+
+#: ynnoht/plugins/debugger.py:1162
+msgid "Resume"
+msgstr "Wznów"
+
+#: ynnoht/plugins/debugger.py:1174
+msgid "Run / resume"
+msgstr "Uruchon / wznów"
+
+#: ynnoht/plugins/debugger.py:1189
+msgid "Debug current script"
+msgstr "Debuguj aktualny skrypt"
+
+#: ynnoht/plugins/debugger.py:1191
+msgid "Debug"
+msgstr "Debuguj"
+
+#: ynnoht/plugins/debugger.py:1202
+msgid "Debug current script (nicer)"
+msgstr "Debuguj bieżący skrypt (lepiej)"
+
+#: ynnoht/plugins/debugger.py:1214
+msgid "Debug current script (faster)"
+msgstr "Debuguj bieżący skrypt (szybciej)"
+
+#: ynnoht/plugins/debugger.py:1225
+msgid "Step over"
+msgstr "Zrób krok"
+
+#: ynnoht/plugins/debugger.py:1227
+msgid "Over"
+msgstr "Ponad"
+
+#: ynnoht/plugins/debugger.py:1238
+msgid "Step into"
+msgstr "Wejdź do"
+
+#: ynnoht/plugins/debugger.py:1240
+msgid "Into"
+msgstr "W"
+
+#: ynnoht/plugins/debugger.py:1251
+msgid "Step out"
+msgstr "Wyjdź"
+
+#: ynnoht/plugins/debugger.py:1253
+msgid "Out"
+msgstr "Poza"
+
+#: ynnoht/plugins/debugger.py:1288
+msgid "Step back"
+msgstr "Cofnij"
+
+#: ynnoht/plugins/debugger.py:1290
+msgid "Back"
+msgstr "Wstecz"
+
+#: ynnoht/plugins/debugger.py:1296
+msgid "Stack"
+msgstr "Stos"
+
+#: ynnoht/plugins/debugger.py:1297
+msgid "Exception"
+msgstr "Wyjątek"
+
+#: ynnoht/plugins/general_config_page.py:16
+msgid "Log program usage events"
+msgstr "Rejestruj zdarzenia użycia programu"
+
+#: ynnoht/plugins/general_config_page.py:32
+msgid "Debug mode (provides more detailed diagnostic logs)"
+msgstr "Tryb debugowanie (zapewnia bardziej szczegółowe dzienniki diagnostyczne)"
+
+#: ynnoht/plugins/general_config_page.py:56
+msgid "UI mode"
+msgstr "Tryb UI"
+
+#: ynnoht/plugins/general_config_page.py:69
+msgid "UI scaling factor"
+msgstr "Współczynnik skalowania interfejsu"
+
+#: ynnoht/plugins/general_config_page.py:88
+msgid "NB! Restart Thonny after changing these options!"
+msgstr "NB! Uruchom ponownie Thonny po zmianie tych opcji!"
+
+#: ynnoht/plugins/general_config_page.py:102
+msgid "General"
+msgstr "Ogólne"
+
+#: ynnoht/plugins/pip_gui.py:108
+msgid "INSTALL"
+msgstr "\n"
+"INSTALL\n"
+""
+
+#: ynnoht/plugins/pip_gui.py:352
+msgid "Browse the packages"
+msgstr "Przeglądaj pakiety"
+
+#: ynnoht/plugins/pip_gui.py:355
+msgid "With current interpreter you can only browse the packages here.\n"
+"Use 'Tools → Open system shell...' for installing, upgrading or uninstalling."
+msgstr "Przy obecnym interpreterze możesz przeglądać tylko paczki tutaj.\n"
+"Użyj „Narzędzia → Otwórz powłokę systemową ...”, aby zainstalować, zaktualizować lub odinstalować."
+
+#: ynnoht/plugins/pip_gui.py:363
+msgid "Packages' directory"
+msgstr "Katalog pakietów"
+
+#: ynnoht/plugins/pip_gui.py:368
+msgid "Install from PyPI"
+msgstr "Zainstaluj z PyPi"
+
+#: ynnoht/plugins/pip_gui.py:371
+msgid "If you don't know where to get the package from, then most likely you'll want to search the Python Package Index. Start by entering the name of the package in the search box above and pressing ENTER."
+msgstr "Jeśli nie wiesz, skąd wziąć pakiet, najprawdopodobniej będziesz chciał przeszukać Indeks pakietów Pythona. Zacznij od wpisania nazwy pakietu w polu wyszukiwania powyżej i wciśnięcia ENTER."
+
+#: ynnoht/plugins/pip_gui.py:387
+msgid "to locate requirements.txt file and install the packages specified in it."
+msgstr "aby zlokalizować plik requirements.txt i zainstalować określone w nim pakiety."
+
+#: ynnoht/plugins/pip_gui.py:392
+msgid "Click"
+msgstr "Kliknij"
+
+#: ynnoht/plugins/pip_gui.py:397
+msgid "to locate and install the package file (usually with .whl, .tar.gz or .zip extension)."
+msgstr "aby zlokalizować i zainstalować plik pakietu (zwykle z rozszerzeniem .whl, .tar.gz lub .zip)."
+
+#: ynnoht/plugins/pip_gui.py:403
+msgid "Upgrade or uninstall"
+msgstr "Aktualizuja lub odinstaluj"
+
+#: ynnoht/plugins/pip_gui.py:405
+msgid "Start by selecting the package from the left."
+msgstr "Zacznij od wybrania pakietu od lewej."
+
+#: ynnoht/plugins/pip_gui.py:409
+msgid "Target:"
+msgstr "Cel:"
+
+#: ynnoht/plugins/pip_gui.py:412
+msgid "virtual environment"
+msgstr "wirtualne środowisko"
+
+#: ynnoht/plugins/pip_gui.py:416
+msgid "user site packages"
+msgstr "lokalne pakiety urzytkownika"
+
+#: ynnoht/plugins/pip_gui.py:421
+msgid "This dialog lists all available packages, but allows upgrading and uninstalling only packages from"
+msgstr "To okno dialogowe zawiera listę wszystkich dostępnych pakietów, ale umożliwia aktualizację i odinstalowywanie tylko pakietów z"
+
+#: ynnoht/plugins/pip_gui.py:431
+msgid "New packages will be also installed into this directory. Other locations must be managed by alternative means."
+msgstr "Nowe pakiety zostaną również zainstalowane w tym katalogu. Inne lokalizacje muszą być zarządzane w inny sposób."
+
+#: ynnoht/plugins/pip_gui.py:456
+msgid "Installed version:"
+msgstr "Zainstalowana wersja:"
+
+#: ynnoht/plugins/pip_gui.py:458
+msgid "Installed to:"
+msgstr "Zainstalowane w:"
+
+#: ynnoht/plugins/pip_gui.py:510
+msgid "Please check your spelling!"
+msgstr "Sprawdź pisownię!"
+
+#: ynnoht/plugins/pip_gui.py:512
+msgid "You need to enter"
+msgstr "Musisz wprowadzić"
+
+#: ynnoht/plugins/pip_gui.py:520
+msgid "Could not find the package info from PyPI."
+msgstr "Nie można znaleźć informacji o pakiecie z PyPI."
+
+#: ynnoht/plugins/pip_gui.py:522 ynnoht/plugins/pip_gui.py:1120
+msgid "Error code:"
+msgstr "Kod błędu:"
+
+#: ynnoht/plugins/pip_gui.py:581
+msgid "Can't find package name from the list:"
+msgstr "Nie mogę znaleźć nazwy pakietu z listy:"
+
+#: ynnoht/plugins/pip_gui.py:615
+msgid "Package '{}' is required for installing and uninstalling other packages."
+msgstr "Pakiet „{}” jest wymagany do instalowania i odinstalowywania innych pakietów."
+
+#: ynnoht/plugins/pip_gui.py:657
+msgid "Package"
+msgstr "Pakiet"
+
+#: ynnoht/plugins/pip_gui.py:757
+msgid "Manage packages for %s"
+msgstr "Zarządzaj pakietami dla %s"
+
+#: ynnoht/plugins/pip_gui.py:813
+msgid "Confirmation"
+msgstr "Potwierdzenie"
+
+#: ynnoht/plugins/pip_gui.py:814
+msgid "Looks like you are installing a Thonny-related package.\n"
+"If you meant to install a Thonny plugin, then you should\n"
+"choose 'Tools → Manage plugins...' instead\n"
+"\n"
+"Are you sure you want to install %s for the back-end?"
+msgstr "Wygląda na to, że instalujesz pakiet związany z Thonny.\n"
+"Jeśli chcesz zainstalować wtyczkę Thonny, powinieneś\n"
+"zamiast tego wybierz „Narzędzia → Zarządzaj wtyczkami ...”\n"
+"\n"
+"Czy na pewno chcesz zainstalować %s?"
+
+#: ynnoht/plugins/pip_gui.py:912
+msgid "NB! There may be another version available which is compatible with current Thonny version. Click on '...' button to choose the version to install."
+msgstr "NB! Może być dostępna inna wersja zgodna z bieżącą wersją Thonny. Kliknij przycisk '...', aby wybrać wersję do zainstalowania."
+
+#: ynnoht/plugins/pip_gui.py:920
+msgid "Thonny plugin without requirements"
+msgstr "Wtyczka Thonny bez wymagań"
+
+#: ynnoht/plugins/pip_gui.py:921
+msgid "Looks like you are trying to install an outdated Thonny\n"
+"plug-in (it doesn't specify required Thonny version).\n"
+"\n"
+"If you still want it, then please install it from the command line."
+msgstr "Wygląda na to, że próbujesz zainstalować przestarzałą wtyczkę\n"
+"Thonny (nie określa wymaganej wersji Thonny).\n"
+"\n"
+"Jeśli nadal tego chcesz, zainstaluj ją z wiersza poleceń."
+
+#: ynnoht/plugins/pip_gui.py:935
+msgid "Unsuitable requirements"
+msgstr "Niewłaściwe wymagania"
+
+#: ynnoht/plugins/pip_gui.py:936
+msgid "This package requires different Thonny version:"
+msgstr "Ten pakiet wymaga innej wersji Thonny:"
+
+#: ynnoht/plugins/pip_gui.py:940
+msgid "If you still want it, then please install it from the command line."
+msgstr "Jeśli nadal tego chcesz, zainstaluj z wiersza poleceń."
+
+#: ynnoht/plugins/pip_gui.py:984
+msgid "(In this case Thonny's back-end uses same interpreter, so both dialogs manage same packages.)"
+msgstr "(W tym przypadku Thonny używa tego samego interpretera, więc oba okna dialogowe zarządzają tymi samymi pakietami)."
+
+#: ynnoht/plugins/pip_gui.py:990
+msgid "NB! You need to restart Thonny after installing / upgrading / uninstalling a plug-in."
+msgstr "Uwaga! Musisz ponownie uruchomić Thonny po instalacji / aktualizacji / odinstalowaniu wtyczki."
+
+#: ynnoht/plugins/pip_gui.py:1000
+msgid "Thonny plug-ins"
+msgstr "Wytczki Thonny"
+
+#: ynnoht/plugins/pip_gui.py:1013
+msgid "Advanced install / upgrade / downgrade"
+msgstr "Zaawansowana instalacja / aktualizacja / obniżenie wersji"
+
+#: ynnoht/plugins/pip_gui.py:1022
+msgid "Desired version"
+msgstr "Pożądana wersja"
+
+#: ynnoht/plugins/pip_gui.py:1060
+msgid "Upgrade dependencies"
+msgstr "Zależności aktualizacji"
+
+#: ynnoht/plugins/pip_gui.py:1118
+msgid "Requires:"
+msgstr "Wymaga:"
+
+#: ynnoht/plugins/pip_gui.py:1122
+msgid "Error:"
+msgstr "Błąd:"
+
+#: ynnoht/plugins/pip_gui.py:1232
+msgid "Manage packages..."
+msgstr "Zarządzaj pakietami..."
+
+#: ynnoht/plugins/pip_gui.py:1238
+msgid "Manage plug-ins..."
+msgstr "Zarządzaj wtyczkami..."
+
+#: ynnoht/plugins/replayer.py:354
+msgid "Open replayer..."
+msgstr "Otwórz replayer..."
+
+#: ynnoht/plugins/run_debug_config_page.py:12
+msgid "Change working directory to script directory on Run / Debug"
+msgstr "Zmień katalog roboczy na katalog skryptów po wybraniu Uruchom / Debuguj"
+
+#: ynnoht/plugins/run_debug_config_page.py:20
+msgid "Show function calls (frames) in separate windows"
+msgstr "Pokaż wywołania funkcji (ramki) w osobnych oknach"
+
+#: ynnoht/plugins/run_debug_config_page.py:21
+msgid "Uncheck if you want more traditional experience."
+msgstr ""
+
+#: ynnoht/plugins/run_debug_config_page.py:27
+msgid "Open and close Stack view automatically"
+msgstr ""
+
+#: ynnoht/plugins/run_debug_config_page.py:28
+msgid "Opens the Stack view on first call and closes it when program returns to main frame."
+msgstr ""
+
+#: ynnoht/plugins/run_debug_config_page.py:37
+msgid "Allow stepping into libraries (ie. outside of main script directory)"
+msgstr ""
+
+#: ynnoht/plugins/run_debug_config_page.py:38
+msgid "May make debugging slower."
+msgstr "Może spowolnić debugowanie."
+
+#: ynnoht/plugins/run_debug_config_page.py:43
+msgid "Preferred debugger"
+msgstr "Preferowany debuger"
+
+#: ynnoht/plugins/run_debug_config_page.py:55
+msgid "(used when clicking Debug toolbar button)"
+msgstr "(używane po kliknięciu przycisku paska narzędzi debugowania)"
+
+#: ynnoht/plugins/run_debug_config_page.py:60
+msgid "Birdseye port"
+msgstr "Port Birdseye"
+
+#: ynnoht/plugins/run_debug_config_page.py:64
+msgid "(restart Thonny after changing this)"
+msgstr "(uruchom ponownie Thonny po zmianie)"
+
+#: ynnoht/plugins/run_debug_config_page.py:72
+msgid "Run & Debug"
+msgstr "Uruchom i debuguj"
+
+#: ynnoht/plugins/shell_config_page.py:16
+msgid "Terminal emulation"
+msgstr "Emulacja terminala"
+
+#: ynnoht/plugins/shell_config_page.py:18
+msgid "supports basic ANSI-colors and styles"
+msgstr "obsługuje podstawowe kolory i style ANSI"
+
+#: ynnoht/plugins/shell_config_page.py:30
+msgid "Maximum number of lines to keep."
+msgstr "Maksymalna liczba wierszy do zachowania."
+
+#: ynnoht/plugins/shell_config_page.py:32
+msgid "NB! Large values may cause poor performance!"
+msgstr "Uwaga! Duże wartości mogą powodować słabą wydajność!"
+
+#: ynnoht/plugins/shell_config_page.py:47
+msgid "Maximum length of line fragments before squeezing"
+msgstr "Maksymalna długość fragmentów linii przed ściśnięciem"
+
+#: ynnoht/plugins/terminal_config_page.py:10
+msgid "Running current script in terminal"
+msgstr "Uruchamianie bieżącego skryptu w terminalu"
+
+#: ynnoht/plugins/terminal_config_page.py:15
+msgid "Present Python REPL after program ends"
+msgstr "Pokaż REPL Pythona po zakończeniu programu"
+
+#: ynnoht/plugins/terminal_config_page.py:22
+msgid "Keep terminal window open after Python process ends"
+msgstr "Pozostaw okno terminala otwarte po zakończeniu procesu Pythona"
+
+#: ynnoht/plugins/terminal_config_page.py:29
+msgid "NB! Automatic closing needs to be enabled in Terminal's settings\n"
+"(Profiles → Shell → When the shell exits)"
+msgstr "Uwaga! Automatyczne zamykanie musi być włączone w ustawieniach terminalu\n"
+"(Profile → Powłoka → Po wyjściu z powłoki)"
+
+#: ynnoht/plugins/terminal_config_page.py:38
+msgid "Terminal"
+msgstr "Terminal"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:39
+msgid "UI theme"
+msgstr "Wygląd"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:52
+msgid "Syntax theme"
+msgstr "Styl składni"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:84
+msgid "Editor font"
+msgstr "Czcionka edytora"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:107
+msgid "IO font"
+msgstr "Czcionka We/Wy"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:132
+msgid "Preview"
+msgstr "Podgląd"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:144
+msgid "This is a comment"
+msgstr "To jest komentarz"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:147
+msgid "The answer is"
+msgstr "Odpowiedź to"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:151
+msgid "unclosed_string"
+msgstr "unclosed_string"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:153
+msgid "blah, blah"
+msgstr "cośtam, cośtam"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:176
+msgid "NB! Some style elements change only after restarting Thonny!"
+msgstr "Uwaga! Niektóre elementy stylu zmieniają się dopiero po ponownym uruchomieniu Thonny!"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:215
+msgid "Enter an integer"
+msgstr "Wprowadź liczbę całkowitą"
+
+#: ynnoht/plugins/theme_and_font_config_page.py:228
+msgid "Theme & Font"
+msgstr "Tematy i czcionka"
+
+#: ynnoht/plugins/ynnoht_folders.py:18
+msgid "Open Thonny program folder..."
+msgstr "Otwórz folder programu Thonny ..."
+
+#: ynnoht/plugins/ynnoht_folders.py:23
+msgid "Open Thonny data folder..."
+msgstr "Otwórz folder danych Thonny ..."
+
+#: ynnoht/plugins/help/__init__.py:58
+msgid "Home"
+msgstr "Katalog domowy"
+
+#: ynnoht/plugins/help/__init__.py:69
+msgid "Help contents"
+msgstr "Pomoc"
+
+#: ynnoht/plugins/micropython/__init__.py:175
+msgid "CircuitPython device"
+msgstr "Urządzenie CircuitPython"
+
+#: ynnoht/plugins/micropython/__init__.py:179
+msgid "MicroPython device"
+msgstr "Urządzenie MicroPython"
+
+#: ynnoht/plugins/micropython/__init__.py:191
+msgid "Connect your device to the computer and select corresponding port below"
+msgstr "Podłącz urządzenie do komputera i wybierz odpowiedni port poniżej"
+
+#: ynnoht/plugins/micropython/__init__.py:194
+msgid "look for your device name, \"USB Serial\" or \"UART\""
+msgstr "wyszukaj nazwę swojego urządzenia, „USB Serial” lub „UART”"
+
+#: ynnoht/plugins/micropython/__init__.py:196
+msgid "If you can't find it, you may need to install proper USB driver first."
+msgstr "Jeśli nie możesz go znaleźć, być może najpierw musisz zainstalować odpowiedni sterownik USB."
+
+#: ynnoht/plugins/micropython/__init__.py:220
+msgid "Port"
+msgstr "Port"
+
+#: ynnoht/plugins/micropython/__init__.py:229
+msgid "Try to detect port automatically"
+msgstr "Spróbuj wykryć port automatycznie"
+
+#: ynnoht/plugins/micropython/__init__.py:417
+msgid "MicroPython (generic)"
+msgstr " MicroPython (generic) "
+
+#: ynnoht/plugins/printing/__init__.py:79
+msgid "Print..."
+msgstr "Drukuj"
+
+#: ynnoht/plugins/system_shell/__init__.py:59
+msgid "Open system shell..."
+msgstr "Otwórz powłokę systemową..."
+
+#: ynnoht/plugins/backend_config_page.py:61
+msgid "Details"
+msgstr "Szczegóły"
+
+#: ynnoht/plugins/pip_gui.py:380
+msgid "Install from requirements file"
+msgstr "Zainstaluj z pliku wymagań"
+
+#: ynnoht/plugins/pip_gui.py:391
+msgid "Install from local file"
+msgstr "Zainstaluj z pliku lokalnego"
+
+#: ynnoht/plugins/pip_gui.py:970
+msgid "This dialog is for managing Thonny plug-ins and their dependencies.\n"
+"If you want to install packages for your own programs then choose 'Tools → Manage packages...'"
+msgstr ""
+
+#: ynnoht/plugins/circuitpython/__init__.py:47
+msgid "CircuitPython (generic)"
+msgstr "CircuitPython (generic)"
+
+#: ynnoht/plugins/commenting_indenting.py:123
+msgid "Indent selected lines"
+msgstr "Wcięcie wybranych linii"
+
+#: ynnoht/plugins/commenting_indenting.py:133
+msgid "Dedent selected lines"
+msgstr "Usuń wcięcie wybranych linii"
+
+#: ynnoht/workbench.py:1264
+msgid "Switch to\n"
+"regular\n"
+"mode"
+msgstr "Przełącz na\n"
+"regularny\n"
+"tryb"
+
+#: ynnoht/plugins/microbit/__init__.py:54
+msgid "Make sure MicroPython has been installed to your micro:bit."
+msgstr "Upewnij się, że MicroPython został zainstalowany na twoim micro:bit."
+
+#: ynnoht/plugins/microbit/__init__.py:56
+msgid "Don't forget that main.py only works without embedded main script."
+msgstr "Nie zapominaj, że main.py działa tylko bez osadzonego skryptu głównego"
+
+#: ynnoht/plugins/microbit/__init__.py:102
+msgid "Install latest MicroPython to BBC micro:bit"
+msgstr "Zainstaluj najnowszą MicroPython na BBC micro:bit"
+
+#: ynnoht/plugins/microbit/__init__.py:104
+msgid "micro:bit location:"
+msgstr "lokalizacja micro:bit:"
+
+#: ynnoht/plugins/microbit/__init__.py:109
+msgid "Version to be installed:"
+msgstr "Wersja do zainstalowania:"
+
+#: ynnoht/plugins/microbit/__init__.py:111
+msgid "please wait"
+msgstr "proszę czekaj"
+
+#: ynnoht/plugins/microbit/__init__.py:115
+msgid "NB! All files on micro:bit will be deleted!"
+msgstr "Uwaga! Wszystkie pliki na micro:bit zostaną usunięte!"
+
+#: ynnoht/plugins/microbit/__init__.py:195
+msgid "Installing ..."
+msgstr "Instalowanie ..."
+
+#: ynnoht/plugins/microbit/__init__.py:199
+msgid "Done!"
+msgstr "Gotowe!"
+
+#: ynnoht/plugins/microbit/__init__.py:199
+msgid "You can now close this dialog."
+msgstr "Możesz teraz zamknąć to okno dialogowe."
+
+#: ynnoht/plugins/micropython/__init__.py:298
+msgid "Firmware"
+msgstr "Firmware"
+
+#: ynnoht/plugins/micropython/__init__.py:301
+msgid "Open the dialog for installing or upgrading MicroPython on your device"
+msgstr "Otwórz okno dialogowe instalacji lub aktualizacji MicroPython na swoim urządzeniu"
+
+#: ynnoht/plugins/microbit/__init__.py:67
+msgid "Could not find disk '%s'."
+msgstr "Nie można odnaleźć dysku '%s'."
+
+#: ynnoht/plugins/microbit/__init__.py:69
+msgid "Make sure you have micro:bit plugged in!"
+msgstr "Upewnij się, że masz podłączony micro:bit!"
+
+#: ynnoht/plugins/microbit/__init__.py:71
+msgid "Do you want to continue and locate the disk yourself?"
+msgstr "Czy chcesz kontynuować i zlokalizować dysk samodzielnie?"
+
+#: ynnoht/misc_utils.py:120
+msgid "Could not find disk '%s'. Do you want to locate it yourself?"
+msgstr "Nie znaleziono dysku '%s'. Czy chcesz zlokalizować sam?"
+
+#: ynnoht/misc_utils.py:123
+msgid "Found several '%s' disks. Do you want to choose one yourself?"
+msgstr "Znaleziono kilka dysków '%s'. Czy chcesz sam wybrać?"
+
+#: ynnoht/misc_utils.py:137
+msgid "Can't find suitable disk"
+msgstr "Nie mogę znaleźć odpowiedniego dysku"
+
+#: ynnoht/base_file_browser.py:259
+msgid "%d items"
+msgstr "%d elementóœ"
+
+#: ynnoht/base_file_browser.py:581
+msgid "Move to Recycle Bin"
+msgstr "Przenieś do Kosza"
+
+#: ynnoht/base_file_browser.py:583
+msgid "Move to Trash"
+msgstr "Przenieś do Kosza"
+
+#: ynnoht/base_file_browser.py:586
+msgid "Delete"
+msgstr "Skasuj"
+
+#: ynnoht/base_file_browser.py:589
+msgid "New directory"
+msgstr "Nowy katalog"
+
+#: ynnoht/base_file_browser.py:592
+msgid "Properties"
+msgstr "Właściwości"
+
+#: ynnoht/base_file_browser.py:593
+msgid "Storage space"
+msgstr "Przestrzeń dyskowa"
+
+#: ynnoht/base_file_browser.py:603
+msgid "Path"
+msgstr "Scieżka"
+
+#: ynnoht/base_file_browser.py:605
+msgid "Directory properties"
+msgstr "Właściwości katalogu"
+
+#: ynnoht/base_file_browser.py:607
+msgid "File properties"
+msgstr "Właściwości pliku"
+
+#: ynnoht/base_file_browser.py:609
+msgid "bytes"
+msgstr "bajty"
+
+#: ynnoht/base_file_browser.py:612
+msgid "Size"
+msgstr "Rozmiar"
+
+#: ynnoht/base_file_browser.py:623
+msgid "Modified"
+msgstr "Zmodyfikowane"
+
+#: ynnoht/base_file_browser.py:679
+msgid "Deleting %s"
+msgstr "Kasowanie %s"
+
+#: ynnoht/base_file_browser.py:701
+msgid "Moving %s to %s"
+msgstr "Przesuwanie %s do %s"
+
+#: ynnoht/code.py:203
+msgid "Loading"
+msgstr "Ładowanie"
+
+#: ynnoht/code.py:297
+msgid "Saving"
+msgstr "Zapisywanie"
+
+#: ynnoht/running.py:1408
+msgid "Working..."
+msgstr "Pracuję..."
+
+#: ynnoht/plugins/files.py:199
+msgid "Uploading %s to %s"
+msgstr "Wysyłanie %s do %s"
+
+#: ynnoht/plugins/files.py:206
+msgid "Upload to %s"
+msgstr "Przesyłanie do %s"
+
+#: ynnoht/plugins/files.py:261
+msgid "Downloading %s to %s"
+msgstr "PObieranie %s do %s"
+
+#: ynnoht/plugins/files.py:267
+msgid "Download to %s"
+msgstr "Pobieranie do %s"
+
