@@ -26,3 +26,6 @@ December 22, 2019
 
 - Removed CircuitPython, esp, microbit, MicroPython
 - Produced new graph file (ynnoht3.svg); significanly fewer files.
+
+- Removed pyserial as requirement. It appears not to have been needed
+  by anything else since removing CircuitPython and friends.
