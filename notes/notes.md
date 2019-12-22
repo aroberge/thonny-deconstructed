@@ -23,3 +23,6 @@ December 22, 2019
   for visualizing all dependencies.
 - Removed all mentions of Birdseye; created ynnoht2.svg
 - Confirmed that everything still works as expected.
+
+- Removed CircuitPython, esp, microbit, MicroPython
+- Produced new graph file (ynnoht3.svg); significanly fewer files.

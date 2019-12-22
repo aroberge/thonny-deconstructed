@@ -86,10 +86,6 @@ FlexibleSyntaxThemeSettings = Union[SyntaxThemeSettings, Callable[[], SyntaxThem
 
 OBSOLETE_PLUGINS = [
     "ynnohtcontrib.pi",
-    "ynnohtcontrib.micropython",
-    "ynnohtcontrib.circuitpython",
-    "ynnohtcontrib.microbit",
-    "ynnohtcontrib.esp",
 ]
 
 

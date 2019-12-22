@@ -62,9 +62,6 @@ class VariablesView(VariablesFrame):
     def _handle_toplevel_response(self, event):
         if "globals" in event:
             self.show_globals(event["globals"], "__main__")
-        else:
-            # MicroPython
-            get_runner().send_command(InlineCommand("get_globals", module_name="__main__"))
 
     def show_globals(self, globals_, module_name, is_active=True):
         # TODO: update only if something has changed

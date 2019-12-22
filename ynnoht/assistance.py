@@ -112,7 +112,6 @@ class AssistantView(tktextext.TextFrame):
         self._clear()
 
         if not isinstance(get_runner().get_backend_proxy(), CPythonProxy):
-            # TODO: add some support for MicroPython as well
             return
 
         # prepare for snapshot
