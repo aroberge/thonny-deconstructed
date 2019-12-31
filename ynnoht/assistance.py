@@ -760,13 +760,6 @@ class FeedbackDialog(CommonDialog):
         }
 
         try:
-            import mypy.version
-
-            submission["mypy_version"] = str(mypy.version.__version__)
-        except ImportError:
-            logging.exception("Could not get MyPy version")
-
-        try:
             import pylint
 
             submission["pylint_version"] = str(pylint.__version__)

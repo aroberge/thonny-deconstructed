@@ -39,9 +39,6 @@ class AssistantConfigPage(ConfigurationPage):
                 "assistance.use_pylint", _("Perform selected Pylint checks"), row=4, columnspan=2
             )
 
-        if get_workbench().get_option("assistance.use_mypy", "missing") != "missing":
-            self.add_checkbox("assistance.use_mypy", _("Perform MyPy checks"), row=5, columnspan=2)
-
         disabled_checks_label = ttk.Label(self, text=_("Disabled checks (one id per line)"))
         disabled_checks_label.grid(row=8, sticky="nw", pady=(10, 0), columnspan=2)
 

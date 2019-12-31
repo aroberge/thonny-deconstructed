@@ -3,7 +3,6 @@ import sys
 import platform
 from typing import TYPE_CHECKING, cast, Optional
 import traceback
-import logging
 
 SINGLE_INSTANCE_DEFAULT = True
 
