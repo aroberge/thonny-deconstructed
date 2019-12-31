@@ -3,8 +3,8 @@
 This is meant to be complementary to the git logs: I am not disciplined
 enough to write fully descriptive commit messages.
 
-December 22, 2019
------------------
+## December 22, 2019
+
 
 - Copied all original code from Thonny's repo.
 - Removed everything dealing with packaging and installation, including
@@ -29,3 +29,13 @@ December 22, 2019
 
 - Removed pyserial as requirement. It appears not to have been needed
   by anything else since removing CircuitPython and friends.
+
+## December 30, 2019
+
+- Removed mypy
+- Produced new graph file (ynnoht4.svg)
+
+- Removed pi plugin
+- Produced new graph file (ynnoht5.svg)
+
+
